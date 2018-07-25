@@ -402,7 +402,7 @@ Distinti saluti - Il vice Segretario Generale, dott. Vincenzo Messina.
 
 .. |STYLE25| replace:: **Oggetto: Nota invito n. 1/2018 del Difensore Civico del Digitale (AGID) e attività intraprese dal Comune di Palermo**
 
-.. |STYLE26| replace:: **Oggetto: Pubblicazione in formato accessibile delleOrdinanze Sindacali gs. circolare prot. AREG/7961/2018 del 16/05/2018 del Servizio Innovazione. Sollecito.**
+.. |STYLE26| replace:: **Oggetto: Pubblicazione in formato accessibile delle Ordinanze Sindacali gs. circolare prot. AREG/7961/2018 del 16/05/2018 del Servizio Innovazione. Sollecito.**
 
 
 .. |LINK1| raw:: html
