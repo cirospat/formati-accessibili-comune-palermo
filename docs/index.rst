@@ -97,21 +97,19 @@ Visto che:
 
 Invita ad osservare e fare osservare quanto segue:
 
-#. gli uffici comunali, attraverso le figure dirigenziali, si adeguano tempestivamente alla richiesta dell’Agenzia per l’Italia Digitale, Ufficio del Difensore Civico Digitale, al fine di ottemperare alla normativa, (riportata nella sezione “Considerato che”), vigente in materia di pubblicazione degli atti amministrativi in formato aperto.
+* gli uffici comunali, attraverso le figure dirigenziali, si adeguano tempestivamente alla richiesta dell’Agenzia per l’Italia Digitale, Ufficio del Difensore Civico Digitale, al fine di ottemperare alla normativa, (riportata nella sezione “Considerato che”), vigente in materia di pubblicazione degli atti amministrativi in formato aperto.
 
-#. Gli uffici comunali predispongono da subito le misure operative necessarie al fine di pubblicare gli atti amministrativi in \ |STYLE13|\ , in cui il testo contenuto deve essere mantenuto in forma testuale (quindi ricercabile e leggibile anche dagli assistenti vocali utilizzati da chi ha disabilità visive).  A tal fine è necessario indicare che ogni atto amministrativo redatto in versione definitiva attraverso l’uso di  “Word” (o altri editori di testo) deve essere convertito in \ |STYLE14|\  e come tale pubblicato sull’albo pretorio online.  In genere, gli editori di testo (Word, OpenOffice, ….), nelle versioni più recenti, consentono direttamente il salvataggio del documento, anche in versione PDF accessibile. In tal caso, l’operatore che sta effettuando la conversione, dovrà avere cura di assicurarsi che nelle impostazioni di salvataggio, ovviamente se disponibile, siano selezionate le seguenti voci: 
+* Gli uffici comunali predispongono da subito le misure operative necessarie al fine di pubblicare gli atti amministrativi in \ |STYLE13|\ , in cui il testo contenuto deve essere mantenuto in forma testuale (quindi ricercabile e leggibile anche dagli assistenti vocali utilizzati da chi ha disabilità visive).  A tal fine è necessario indicare che ogni atto amministrativo redatto in versione definitiva attraverso l’uso di  “Word” (o altri editori di testo) deve essere convertito in \ |STYLE14|\  e come tale pubblicato sull’albo pretorio online.  In genere, gli editori di testo (Word, OpenOffice, ….), nelle versioni più recenti, consentono direttamente il salvataggio del documento, anche in versione PDF accessibile. In tal caso, l’operatore che sta effettuando la conversione, dovrà avere cura di assicurarsi che nelle impostazioni di salvataggio, ovviamente se disponibile, siano selezionate le seguenti voci: 
 
-* Converti informazioni documento, 
+    * Converti informazioni documento, 
 
-* Crea segnalibri, 
+    * Crea segnalibri, 
 
-* Aggiungi link, 
+    * Aggiungi link, 
 
-* Abilita accesso e ridisponi con Adobe PDF con tag.
+    * Abilita accesso e ridisponi con Adobe PDF con tag. 
 
-..  Note:: 
-
-    Si sottolinea, ancora una volta, che la procedura della scansione degli atti amministrativi stampati e firmati a penna, è \ |STYLE15|\  della presente circolare.
+    \ |STYLE15|\  
 
     Nel caso in cui il PC del personale degli uffici non è dotato della funzione “stampa in PDF” nell’editor di testo in uso, è necessario che la Segreteria della funzione dirigenziale predisponga un elenco, per singolo ufficio, che riporta il numero dei PLI dei PC, insieme alla sede dove è ubicato (via, n. civ.) e il riferimento dell'utente (nome, cognome) corredato dal recapito telefonico ed email, in modo da poter permettere alla SISPI di effettuare gli interventi tempestivamente da remoto. 
 
@@ -121,17 +119,17 @@ Invita ad osservare e fare osservare quanto segue:
 
     L'elenco deve essere inviato all’indirizzo di posta elettronica: \ |LINK7|\  ed \ |LINK8|\  chiedendo l’installazione dell’applicativo “stampa PDF”. 
 
-#. La Società SISPI deve consentire a tutti i PC in dotazione dell’Amministrazione di produrre PDF testuali, a partire dai documenti di testo. Laddove gli editor testuali usati nei PC non lo consentano (esempio: Word), installare, da remoto, stampanti virtuali di PDF in formato accessibile. Ove i Dirigenti e i dipendenti ne facciano richiesta per le necessità di pubblicazione degli atti online, la SISPI deve effettuare l’installazione da remoto tempestivamente, non rallentando il processo di pubblicazione a carico degli uffici. E’, comunque, necessario che, nel medio tempore, la Sispi implementi l’applicativo di pubblicazione degli atti amministrativi nell’Albo Pretorio, di adeguate funzioni che consentano, dato in input un documento di testo (es.: formato doc, docx, odt), di generare in automatico in output la pubblicazione online in \ |STYLE16|\ .
+* La Società SISPI deve consentire a tutti i PC in dotazione dell’Amministrazione di produrre PDF testuali, a partire dai documenti di testo. Laddove gli editor testuali usati nei PC non lo consentano (esempio: Word), installare, da remoto, stampanti virtuali di PDF in formato accessibile. Ove i Dirigenti e i dipendenti ne facciano richiesta per le necessità di pubblicazione degli atti online, la SISPI deve effettuare l’installazione da remoto tempestivamente, non rallentando il processo di pubblicazione a carico degli uffici. E’, comunque, necessario che, nel medio tempore, la Sispi implementi l’applicativo di pubblicazione degli atti amministrativi nell’Albo Pretorio, di adeguate funzioni che consentano, dato in input un documento di testo (es.: formato doc, docx, odt), di generare in automatico in output la pubblicazione online in \ |STYLE16|\ .
 
-#. I Dirigenti sono ritenuti responsabili della verifica dell’avvenuta pubblicazione online dell’atto amministrativo, di competenza (determinazione dirigenziale, ordinanza dirigenziale), in \ |STYLE17|\ . 
+* I Dirigenti sono ritenuti responsabili della verifica dell’avvenuta pubblicazione online dell’atto amministrativo, di competenza (determinazione dirigenziale, ordinanza dirigenziale), in \ |STYLE17|\ . 
 
-#. La Segreteria Generale che, ai sensi della nota n. 63 del 2.01.2018 dello Staff del Segretario Generale, riceve - in \ |STYLE18|\  - dagli uffici proponenti le proposte di Deliberazione di Giunta, di Consiglio e le proposte di Determinazione del Sindaco, verificate le condizioni di presenza o assenza di emendamenti (dalla Giunta, dal Consiglio, o dal Sindaco) al testo proposto, vorrà provvedere alla conversione del documento in \ |STYLE19|\  e alla successiva pubblicazione nell’albo pretorio online, secondo le indicazioni fornite nel punto 2.
+* La Segreteria Generale che, ai sensi della nota n. 63 del 2.01.2018 dello Staff del Segretario Generale, riceve - in \ |STYLE18|\  - dagli uffici proponenti le proposte di Deliberazione di Giunta, di Consiglio e le proposte di Determinazione del Sindaco, verificate le condizioni di presenza o assenza di emendamenti (dalla Giunta, dal Consiglio, o dal Sindaco) al testo proposto, vorrà provvedere alla conversione del documento in \ |STYLE19|\  e alla successiva pubblicazione nell’albo pretorio online, secondo le indicazioni fornite.
 
-#. Il personale dell’UO Transizione al Digitale e UO Webmaster e Nodo Sitr del Servizio Innovazione, effettua un \ |STYLE20|\ , vigilando operativamente sugli atti pubblicati nell’albo pretorio online, relazionando costantemente il Dirigente del Servizio Innovazione, che comunicherà a sua volta lo stato dettagliato del rispetto del formato di pubblicazione all’Agenzia per l’Italia Digitale, Ufficio del Difensore Civico per il Digitale.
+* Il personale dell’UO Transizione al Digitale e UO Webmaster e Nodo Sitr del Servizio Innovazione, effettua un \ |STYLE20|\ , vigilando operativamente sugli atti pubblicati nell’albo pretorio online, relazionando costantemente il Dirigente del Servizio Innovazione, che comunicherà a sua volta lo stato dettagliato del rispetto del formato di pubblicazione all’Agenzia per l’Italia Digitale, Ufficio del Difensore Civico per il Digitale.
 
-#. La Sispi, avviato il nuovo processo di pubblicazione in formato PDF accessibile, rimane onerata di generare un flusso xml, in tempo reale, che contenga la metadatazione dell’atto amministrativo oltre ad un url univoco che ne consenta l’accesso diretto. Tale adeguamento è necessario per ottemperare all’obbligo di pubblicazione previsto dal \ |STYLE21|\ .
+* La Sispi, avviato il nuovo processo di pubblicazione in formato PDF accessibile, rimane onerata di generare un flusso xml, in tempo reale, che contenga la metadatazione dell’atto amministrativo oltre ad un url univoco che ne consenta l’accesso diretto. Tale adeguamento è necessario per ottemperare all’obbligo di pubblicazione previsto dal \ |STYLE21|\ .
 
-#. La presente Circolare ha decorrenza immediata.
+* La presente Circolare ha decorrenza immediata.
 
 Il Dirigente del Servizio Innovazione, Responsabile Pubblicazione (D.Lgs. 33/2013 e s.m.i.), Responsabile Open Data, Dott. Gabriele Marchese
 
@@ -363,7 +361,7 @@ Con l'occasione si porgono cordiali saluti. Il Dirigente dell'Ufficio Innovazion
 
 .. |STYLE14| replace:: **formato in PDF nel rispetto dei requisiti tecnici di accessibilità riportati nell’Allegato A del Decreto Ministeriale 8 luglio 2005**
 
-.. |STYLE15| replace:: **totalmente non conforme alle vigenti norme riportate nella sezione “Considerato che”**
+.. |STYLE15| replace:: **Si sottolinea, ancora una volta, che la procedura della scansione degli atti amministrativi stampati e firmati a penna, è totalmente non conforme alle vigenti norme riportate nella sezione “Considerato che” della presente circolare.**
 
 .. |STYLE16| replace:: **formato PDF accessibile nel rispetto dei requisiti tecnici di accessibilità riportati nell’Allegato A del Decreto Ministeriale 8 luglio 2005**
 
