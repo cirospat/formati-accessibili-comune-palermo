@@ -13,7 +13,7 @@ __version__ = '1.0'
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'formati accessibili del comune di Palermo'
+project = 'Formati accessibili degli atti online del comune di Palermo'
 copyright = 'change-me'
 
 # The name of the Pygments (syntax highlighting) style to use.
