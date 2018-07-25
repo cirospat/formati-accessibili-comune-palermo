@@ -2,6 +2,8 @@
 
 /** @define Dialog; */
 
+/* dal webtoolkit del TEAM */
+
 /* postcss-bem-linter: ignore */
 
 .Dialog.fr-dialogmodal--is-ready[aria-hidden=false] {
