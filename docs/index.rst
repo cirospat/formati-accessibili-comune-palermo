@@ -320,6 +320,32 @@ Con l'occasione si porgono cordiali saluti. Il Dirigente dell'Ufficio Innovazion
 
 --------
 
+.. _h485d4018c14711aa16204d2d2f7465:
+
+Staff Organi Istituzionali - Vice Segretario Generale 25.07.2018
+================================================================
+
+
+..  Important:: 
+
+    Palermo, 25-07-2018 Prot. n. 1015602/1
+    
+    Ai Sig.ri Dirigenti
+    
+    E p.c. al Sig. Sindaco, Sig. Segretario Generale - al Capo di Gabinetto del Sindaco - al Dirigente del Servizio Innovazione, all’Ufficio Archivio Generale, all’UO Messi/Albo Pretorio
+
+\ |STYLE26|\ 
+
+Facendo riferimento alla nota protocollo n. 9917371/1 del 17.07 u.s. di pari oggetto, si apprende che continuano a pervenire in Segreteria Generale ordinanze sindacali soltanto in formato cartaceo e non anche nel formato digitale primitivo (DOC,DOCX,..) all’indirizzo email segnalato \ |LINK16|\ .
+
+Di talché, viene impedita la pubblicazione all’Albo Pretorio online dei predetti atti sindacali nel rispetto dei requisiti tecnici di accessibilità di cui all’Allegato “A” del D.M. 8 luglio 2005.
+
+Preme, ancora una volta, ribadire alle SS.LL. che lo scrivente non può certamente esimersi dal pubblicare all’Albo le ordinanze sindacali, seppure in formato PDF non consentito, non ritenendosi responsabile di eventuali ed ulteriori richiami dell’AGID Ufficio del Difensore Civico Digitale.
+
+Distinti saluti - Il vice Segretario Generale, dott. Vincenzo Messina.
+
+--------
+
 
 .. bottom of content
 
@@ -375,6 +401,8 @@ Con l'occasione si porgono cordiali saluti. Il Dirigente dell'Ufficio Innovazion
 .. |STYLE24| replace:: **OGGETTO: Pubblicazione in formato accessibile delle Ordinanze Sindacali gs. circolare prot. AREG/7961/2018 del 16/05/2018 del Servizio Innovazione.**
 
 .. |STYLE25| replace:: **Oggetto: Nota invito n. 1/2018 del Difensore Civico del Digitale (AGID) e attività intraprese dal Comune di Palermo**
+
+.. |STYLE26| replace:: **Oggetto: Pubblicazione in formato accessibile delleOrdinanze Sindacali gs. circolare prot. AREG/7961/2018 del 16/05/2018 del Servizio Innovazione. Sollecito.**
 
 
 .. |LINK1| raw:: html
@@ -436,6 +464,10 @@ Con l'occasione si porgono cordiali saluti. Il Dirigente dell'Ufficio Innovazion
 .. |LINK15| raw:: html
 
     <a href="http://cad.readthedocs.io/it/v2017-12-13/_rst/capo2_sezione1_art23-ter.html?highlight=documento%20informatico" target="_blank">art. 23-ter. Documenti amministrativi informatici</a>
+
+.. |LINK16| raw:: html
+
+    <a href="mailto:messi.albo@comune.palermo.it">messi.albo@comune.palermo.it</a>
 
 
 
