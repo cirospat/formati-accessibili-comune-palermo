@@ -13,7 +13,7 @@ __version__ = '1.0'
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'schema tipo RTD'
+project = 'formati accessibili del comune di Palermo'
 copyright = 'change-me'
 
 # The name of the Pygments (syntax highlighting) style to use.
