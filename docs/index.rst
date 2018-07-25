@@ -14,6 +14,11 @@ Formati accessibili online del Comune di Palermo
 
 |
 
+
+|REPLACE1|
+
+|
+
 .. _h6264c502b58552322d2e7b356627:
 
 AGID Difensore Civico per il Digitale invito n. 1 del 10.05.2018
@@ -404,6 +409,32 @@ Distinti saluti - Il vice Segretario Generale, dott. Vincenzo Messina.
 
 .. |STYLE26| replace:: **Oggetto: Pubblicazione in formato accessibile delle Ordinanze Sindacali gs. circolare prot. AREG/7961/2018 del 16/05/2018 del Servizio Innovazione. Sollecito.**
 
+
+.. |REPLACE1| raw:: html
+
+    <button class="Button Button--default js-fr-dialogmodal-open" aria-controls="modal">
+      Info
+    </button>
+    
+    <div class="Dialog js-fr-dialogmodal" id="modal">
+        <div class="
+          Dialog-content
+          Dialog-content--centered
+          u-background-white
+          u-layout-prose
+          u-margin-all-xl
+          u-padding-all-xl
+          js-fr-dialogmodal-modal
+        " aria-labelledby="modal-title">
+            <div role="document" class="Prose">
+                <h2 class="u-cf u-text-h2 u-borderHideFocus" id="modal-title" tabindex="0">Sit et cum iure illum ducimus dignissimos fuga iste.</h2>
+                <p>
+                    Prova di dialog box.
+                </p>
+                <button class="Button Button--danger js-fr-dialogmodal-close u-floatRight">Chiudi</button>
+            </div>
+        </div>
+    </div>
 
 .. |LINK1| raw:: html
 
