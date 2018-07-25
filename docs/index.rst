@@ -4,7 +4,7 @@
 Formati accessibili online del Comune di Palermo
 ************************************************
 
-Attività svolte dagli uffici comunali per adottare formati accessibili per gli atti oggetto di pubblicazione sull’Albo Pretorio del Comune di Palermo
+\ |STYLE0|\ 
 
 .. toctree::  
     :maxdepth: 3
@@ -12,10 +12,7 @@ Attività svolte dagli uffici comunali per adottare formati accessibili per gli 
 
     index
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+|
 
 .. _h6264c502b58552322d2e7b356627:
 
@@ -31,7 +28,7 @@ AGID Difensore Civico per il Digitale invito n. 1 del 10.05.2018
     
     Ufficio del Difensore Civico per il Digitale al Comune di Palermo \ |LINK2|\ 
 
-\ |STYLE0|\  
+\ |LINK3|\  \ |STYLE1|\  
 
 Come è noto l’art.17, comma 1-quater, del decreto legislativo 7 marzo 2005, n.82 (CAD) prevede “ è istituito presso l'AgID l'ufficio del difensore civico per il digitale, a cui è preposto un soggetto in possesso di adeguati requisiti di terzietà, autonomia e imparzialità. Chiunque può presentare al difensore civico per il digitale, attraverso apposita area presente sul sito istituzionale dell'AgID, segnalazioni relative a presunte violazioni del presente Codice e di ogni altra norma in materia di digitalizzazione ed innovazione della pubblica amministrazione da parte dei soggetti di cui all'articolo 2, comma 2. Ricevuta la segnalazione, il difensore civico, se la ritiene fondata, invita il soggetto responsabile della violazione a porvi rimedio tempestivamente e comunque non oltre trenta giorni. Le decisioni del difensore civico sono pubblicate in un'apposita area del sito Internet istituzionale. Il difensore segnala le inadempienze all'ufficio competente per i procedimenti disciplinari di ciascuna amministrazione.”.
 
@@ -61,45 +58,45 @@ Ufficio Innovazione 16.05.2018
     
     E p.c.: al Sig. Sindaco - al Segretario Generale - al Responsabile della Trasparenza - al Nucleo di Valutazione - all’AGID, Ufficio del Difensore Civico Digitale
 
-\ |STYLE1|\ 
-
 \ |STYLE2|\ 
 
 \ |STYLE3|\ 
+
+\ |STYLE4|\ 
 
 Il Dirigente del Servizio Innovazione, nella qualità di Responsabile della Pubblicazione (D.Lgs. 33/2013 e ss.mm.ii.), e Responsabile Open Data,
 
 Considerato che:
 
-\ |STYLE4|\  e successive modifiche e integrazioni dispone che “I documenti di cui al presente articolo devono essere fruibili indipendentemente dalla condizione di disabilità personale, applicando i criteri di accessibilità definiti dai requisiti tecnici di cui all’articolo 11 della legge 9.01.2004, n. 4.”.
+\ |STYLE5|\  e successive modifiche e integrazioni dispone che “I documenti di cui al presente articolo devono essere fruibili indipendentemente dalla condizione di disabilità personale, applicando i criteri di accessibilità definiti dai requisiti tecnici di cui all’articolo 11 della legge 9.01.2004, n. 4.”.
 
-\ |STYLE5|\ , prevede che: "Le pubbliche amministrazioni garantiscono la qualità delle informazioni riportate nei siti istituzionali nel rispetto degli obblighi di pubblicazione previsti dalla legge, assicurandone l'integrità, il costante aggiornamento, la completezza, la tempestività, la semplicità di consultazione, la comprensibilità, l'omogeneità, la facile accessibilità, nonché la conformità ai documenti originali in possesso dell'amministrazione, l'indicazione della loro provenienza e la riutilizzabilità secondo quanto previsto dall'articolo 7".
+\ |STYLE6|\ , prevede che: "Le pubbliche amministrazioni garantiscono la qualità delle informazioni riportate nei siti istituzionali nel rispetto degli obblighi di pubblicazione previsti dalla legge, assicurandone l'integrità, il costante aggiornamento, la completezza, la tempestività, la semplicità di consultazione, la comprensibilità, l'omogeneità, la facile accessibilità, nonché la conformità ai documenti originali in possesso dell'amministrazione, l'indicazione della loro provenienza e la riutilizzabilità secondo quanto previsto dall'articolo 7".
 
-\ |STYLE6|\  prevede che: “I documenti, le informazioni e i dati oggetto di pubblicazione obbligatoria ai sensi della normativa vigente, resi disponibili anche a seguito dell'accesso civico di cui all'articolo 5, sono pubblicati in formato di tipo aperto ai sensi dell'articolo 68 del Codice dell'amministrazione digitale, di cui al decreto legislativo 7.05.2005, n. 82, e sono riutilizzabili ai sensi del decreto legislativo 24.01.2006, n. 36, del decreto legislativo 7.05.2005, n. 82, e del decreto legislativo 30.06.2003, n. 196, senza ulteriori restrizioni diverse dall'obbligo di citare la fonte e di rispettarne l'integrità.”
+\ |STYLE7|\  prevede che: “I documenti, le informazioni e i dati oggetto di pubblicazione obbligatoria ai sensi della normativa vigente, resi disponibili anche a seguito dell'accesso civico di cui all'articolo 5, sono pubblicati in formato di tipo aperto ai sensi dell'articolo 68 del Codice dell'amministrazione digitale, di cui al decreto legislativo 7.05.2005, n. 82, e sono riutilizzabili ai sensi del decreto legislativo 24.01.2006, n. 36, del decreto legislativo 7.05.2005, n. 82, e del decreto legislativo 30.06.2003, n. 196, senza ulteriori restrizioni diverse dall'obbligo di citare la fonte e di rispettarne l'integrità.”
 
-Nella \ |LINK3|\ \ [#F1]_\  si legge: “Ciò significa che i moduli e formulari, ma anche gli atti e i provvedimenti amministrativi oggetto di pubblicità legale, devono essere fruibili anche da persone con disabilità. Non è ammessa, pertanto, la pubblicazione di documenti-immagine, vale a dire scansioni digitali di documenti cartacei senza che si sia provveduto ad opportuna digitalizzazione del testo ivi contenuto.”
+Nella \ |LINK4|\ \ [#F1]_\  si legge: “Ciò significa che i moduli e formulari, ma anche gli atti e i provvedimenti amministrativi oggetto di pubblicità legale, devono essere fruibili anche da persone con disabilità. Non è ammessa, pertanto, la pubblicazione di documenti-immagine, vale a dire scansioni digitali di documenti cartacei senza che si sia provveduto ad opportuna digitalizzazione del testo ivi contenuto.”
 
-I siti web delle pubbliche amministrazioni devono rispettare i requisiti tecnici di accessibilità riportati nell’\ |LINK4|\ \ [#F2]_\  \ |STYLE7|\  e successive modifiche .
+I siti web delle pubbliche amministrazioni devono rispettare i requisiti tecnici di accessibilità riportati nell’\ |LINK5|\ \ [#F2]_\  \ |STYLE8|\  e successive modifiche .
 
 Visto che:
 
-#. Il Nucleo di Valutazione,  ai sensi dell’art. 14, comma 4, lettera g, del Decreto Legislativo n. 150/2009 e della delibera ANAC  n.  1310/2016, ha effettuato nel 2016, 2017 e 2018 la verifica sulla pubblicazione, sulla completezza, sull’aggiornamento e sull’apertura del formato di ciascun documento, dato ed informazione pubblicati nella sezione \ |LINK5|\ \ [#F3]_\  del sito istituzionale, rilevando testualmente che: “Va osservato, a livello generale, come, anche nell’anno  2017 e nel primo trimestre 2018, in relazione ai dati pubblicati sul  portale si sia avuto  modo  di  rinvenire  la  presenza  di  numerosi  documenti  (attestazioni,  dichiarazioni,  CV, provvedimenti  amministrativi  di  varia  natura)  in  formato  non  aperto,  bensì PDF derivante  da  scansioni  in  formato immagine. Si deve, comunque segnalare la trasformazione di alcuni documenti precedentemente pubblicati da formato non aperto a formato aperto o almeno elaborabile”.
+#. Il Nucleo di Valutazione,  ai sensi dell’art. 14, comma 4, lettera g, del Decreto Legislativo n. 150/2009 e della delibera ANAC  n.  1310/2016, ha effettuato nel 2016, 2017 e 2018 la verifica sulla pubblicazione, sulla completezza, sull’aggiornamento e sull’apertura del formato di ciascun documento, dato ed informazione pubblicati nella sezione \ |LINK6|\ \ [#F3]_\  del sito istituzionale, rilevando testualmente che: “Va osservato, a livello generale, come, anche nell’anno  2017 e nel primo trimestre 2018, in relazione ai dati pubblicati sul  portale si sia avuto  modo  di  rinvenire  la  presenza  di  numerosi  documenti  (attestazioni,  dichiarazioni,  CV, provvedimenti  amministrativi  di  varia  natura)  in  formato  non  aperto,  bensì PDF derivante  da  scansioni  in  formato immagine. Si deve, comunque segnalare la trasformazione di alcuni documenti precedentemente pubblicati da formato non aperto a formato aperto o almeno elaborabile”.
 
-#. L’Agenzia per l’Italia Digitale, Ufficio del Difensore Civico Digitale, con invito n. 1/2018 notificato con PEC del 10.05.2018 ha dato al Comune di Palermo il termine di 30 giorni per adeguare la pubblicazione degli atti all’albo pretorio ai contenuti del art. 23 ter, comma 5 bis, del Decreto Legislativo 7.03.2013, n. 33 e s.m.i. e specificatamente ha chiesto di porre rimedio alla pubblicazione in formato \ |STYLE8|\  (derivanti dall’attività di scansione degli atti cartacei), e di notiziare la stessa Agenzia sullo stato di adempimento. La richiesta nasce da una segnalazione pervenuta il 13.03.2018 all’Ufficio del Difensore Civico per il Digitale dell’AgID, per il mancato rispetto della normativa in materia di accessibilità relativamente ai documenti amministrativi informatici emessi dal Comune e pubblicati nel sito istituzionale.
+#. L’Agenzia per l’Italia Digitale, Ufficio del Difensore Civico Digitale, con invito n. 1/2018 notificato con PEC del 10.05.2018 ha dato al Comune di Palermo il termine di 30 giorni per adeguare la pubblicazione degli atti all’albo pretorio ai contenuti del art. 23 ter, comma 5 bis, del Decreto Legislativo 7.03.2013, n. 33 e s.m.i. e specificatamente ha chiesto di porre rimedio alla pubblicazione in formato \ |STYLE9|\  (derivanti dall’attività di scansione degli atti cartacei), e di notiziare la stessa Agenzia sullo stato di adempimento. La richiesta nasce da una segnalazione pervenuta il 13.03.2018 all’Ufficio del Difensore Civico per il Digitale dell’AgID, per il mancato rispetto della normativa in materia di accessibilità relativamente ai documenti amministrativi informatici emessi dal Comune e pubblicati nel sito istituzionale.
 
-\ |STYLE9|\ :
+\ |STYLE10|\ :
 
-#. gli Uffici dell’Amministrazione pubblicano sull’albo pretorio online, come prassi ordinaria, gli atti amministrativi (determinazioni, ordinanze, deliberazioni, ed altri atti) in formato \ |STYLE10|\  al posto del formato PDF nel rispetto dei requisiti tecnici di accessibilità riportati nell’\ |STYLE11|\ , che invece rende il contenuto del documento riusabile (è infatti possibile selezionare, e copiare il testo in questo specifico formato, permettendone la riusabilità).
+#. gli Uffici dell’Amministrazione pubblicano sull’albo pretorio online, come prassi ordinaria, gli atti amministrativi (determinazioni, ordinanze, deliberazioni, ed altri atti) in formato \ |STYLE11|\  al posto del formato PDF nel rispetto dei requisiti tecnici di accessibilità riportati nell’\ |STYLE12|\ , che invece rende il contenuto del documento riusabile (è infatti possibile selezionare, e copiare il testo in questo specifico formato, permettendone la riusabilità).
 
-#. E’ necessario dare corso tempestivamente alla richiesta dell’Agenzia per l’Italia Digitale, Ufficio del Difensore Civico Digitale, predisponendo le attività necessarie alla pubblicazione degli atti amministrativi in \ |STYLE12|\ .
+#. E’ necessario dare corso tempestivamente alla richiesta dell’Agenzia per l’Italia Digitale, Ufficio del Difensore Civico Digitale, predisponendo le attività necessarie alla pubblicazione degli atti amministrativi in \ |STYLE13|\ .
 
-#. Con nota n. 63 del 2.01.2018 dello Staff del Segretario Generale è stato disposto di far osservare ai Dirigenti che sotto il profilo redazionale, per le proposte di Deliberazione di Giunta, di Consiglio e per le proposte di Determinazione del Sindaco, a garanzia dell’intangibilità dei relativi contenuti, devono pervenire all’Ufficio di Staff della stessa Segreteria copie digitali delle proposte all’indirizzo \ |LINK6|\ .  
+#. Con nota n. 63 del 2.01.2018 dello Staff del Segretario Generale è stato disposto di far osservare ai Dirigenti che sotto il profilo redazionale, per le proposte di Deliberazione di Giunta, di Consiglio e per le proposte di Determinazione del Sindaco, a garanzia dell’intangibilità dei relativi contenuti, devono pervenire all’Ufficio di Staff della stessa Segreteria copie digitali delle proposte all’indirizzo \ |LINK7|\ .  
 
 Invita ad osservare e fare osservare quanto segue:
 
 * gli uffici comunali, attraverso le figure dirigenziali, si adeguano tempestivamente alla richiesta dell’Agenzia per l’Italia Digitale, Ufficio del Difensore Civico Digitale, al fine di ottemperare alla normativa, (riportata nella sezione “Considerato che”), vigente in materia di pubblicazione degli atti amministrativi in formato aperto.
 
-* Gli uffici comunali predispongono da subito le misure operative necessarie al fine di pubblicare gli atti amministrativi in \ |STYLE13|\ , in cui il testo contenuto deve essere mantenuto in forma testuale (quindi ricercabile e leggibile anche dagli assistenti vocali utilizzati da chi ha disabilità visive).  A tal fine è necessario indicare che ogni atto amministrativo redatto in versione definitiva attraverso l’uso di  “Word” (o altri editori di testo) deve essere convertito in \ |STYLE14|\  e come tale pubblicato sull’albo pretorio online.  In genere, gli editori di testo (Word, OpenOffice, ….), nelle versioni più recenti, consentono direttamente il salvataggio del documento, anche in versione PDF accessibile. In tal caso, l’operatore che sta effettuando la conversione, dovrà avere cura di assicurarsi che nelle impostazioni di salvataggio, ovviamente se disponibile, siano selezionate le seguenti voci: 
+* Gli uffici comunali predispongono da subito le misure operative necessarie al fine di pubblicare gli atti amministrativi in \ |STYLE14|\ , in cui il testo contenuto deve essere mantenuto in forma testuale (quindi ricercabile e leggibile anche dagli assistenti vocali utilizzati da chi ha disabilità visive).  A tal fine è necessario indicare che ogni atto amministrativo redatto in versione definitiva attraverso l’uso di  “Word” (o altri editori di testo) deve essere convertito in \ |STYLE15|\  e come tale pubblicato sull’albo pretorio online.  In genere, gli editori di testo (Word, OpenOffice, ….), nelle versioni più recenti, consentono direttamente il salvataggio del documento, anche in versione PDF accessibile. In tal caso, l’operatore che sta effettuando la conversione, dovrà avere cura di assicurarsi che nelle impostazioni di salvataggio, ovviamente se disponibile, siano selezionate le seguenti voci: 
 
     * Converti informazioni documento, 
 
@@ -109,7 +106,7 @@ Invita ad osservare e fare osservare quanto segue:
 
     * Abilita accesso e ridisponi con Adobe PDF con tag. 
 
-    \ |STYLE15|\  
+    \ |STYLE16|\  
 
     Nel caso in cui il PC del personale degli uffici non è dotato della funzione “stampa in PDF” nell’editor di testo in uso, è necessario che la Segreteria della funzione dirigenziale predisponga un elenco, per singolo ufficio, che riporta il numero dei PLI dei PC, insieme alla sede dove è ubicato (via, n. civ.) e il riferimento dell'utente (nome, cognome) corredato dal recapito telefonico ed email, in modo da poter permettere alla SISPI di effettuare gli interventi tempestivamente da remoto. 
 
@@ -117,17 +114,17 @@ Invita ad osservare e fare osservare quanto segue:
 |n. PLI del PC|nome, cognome|telefono |email|ufficio in via, n. civico|
 +-------------+-------------+---------+-----+-------------------------+
 
-    L'elenco deve essere inviato all’indirizzo di posta elettronica: \ |LINK7|\  ed \ |LINK8|\  chiedendo l’installazione dell’applicativo “stampa PDF”. 
+    L'elenco deve essere inviato all’indirizzo di posta elettronica: \ |LINK8|\  ed \ |LINK9|\  chiedendo l’installazione dell’applicativo “stampa PDF”. 
 
-* La Società SISPI deve consentire a tutti i PC in dotazione dell’Amministrazione di produrre PDF testuali, a partire dai documenti di testo. Laddove gli editor testuali usati nei PC non lo consentano (esempio: Word), installare, da remoto, stampanti virtuali di PDF in formato accessibile. Ove i Dirigenti e i dipendenti ne facciano richiesta per le necessità di pubblicazione degli atti online, la SISPI deve effettuare l’installazione da remoto tempestivamente, non rallentando il processo di pubblicazione a carico degli uffici. E’, comunque, necessario che, nel medio tempore, la Sispi implementi l’applicativo di pubblicazione degli atti amministrativi nell’Albo Pretorio, di adeguate funzioni che consentano, dato in input un documento di testo (es.: formato doc, docx, odt), di generare in automatico in output la pubblicazione online in \ |STYLE16|\ .
+* La Società SISPI deve consentire a tutti i PC in dotazione dell’Amministrazione di produrre PDF testuali, a partire dai documenti di testo. Laddove gli editor testuali usati nei PC non lo consentano (esempio: Word), installare, da remoto, stampanti virtuali di PDF in formato accessibile. Ove i Dirigenti e i dipendenti ne facciano richiesta per le necessità di pubblicazione degli atti online, la SISPI deve effettuare l’installazione da remoto tempestivamente, non rallentando il processo di pubblicazione a carico degli uffici. E’, comunque, necessario che, nel medio tempore, la Sispi implementi l’applicativo di pubblicazione degli atti amministrativi nell’Albo Pretorio, di adeguate funzioni che consentano, dato in input un documento di testo (es.: formato doc, docx, odt), di generare in automatico in output la pubblicazione online in \ |STYLE17|\ .
 
-* I Dirigenti sono ritenuti responsabili della verifica dell’avvenuta pubblicazione online dell’atto amministrativo, di competenza (determinazione dirigenziale, ordinanza dirigenziale), in \ |STYLE17|\ . 
+* I Dirigenti sono ritenuti responsabili della verifica dell’avvenuta pubblicazione online dell’atto amministrativo, di competenza (determinazione dirigenziale, ordinanza dirigenziale), in \ |STYLE18|\ . 
 
-* La Segreteria Generale che, ai sensi della nota n. 63 del 2.01.2018 dello Staff del Segretario Generale, riceve - in \ |STYLE18|\  - dagli uffici proponenti le proposte di Deliberazione di Giunta, di Consiglio e le proposte di Determinazione del Sindaco, verificate le condizioni di presenza o assenza di emendamenti (dalla Giunta, dal Consiglio, o dal Sindaco) al testo proposto, vorrà provvedere alla conversione del documento in \ |STYLE19|\  e alla successiva pubblicazione nell’albo pretorio online, secondo le indicazioni fornite.
+* La Segreteria Generale che, ai sensi della nota n. 63 del 2.01.2018 dello Staff del Segretario Generale, riceve - in \ |STYLE19|\  - dagli uffici proponenti le proposte di Deliberazione di Giunta, di Consiglio e le proposte di Determinazione del Sindaco, verificate le condizioni di presenza o assenza di emendamenti (dalla Giunta, dal Consiglio, o dal Sindaco) al testo proposto, vorrà provvedere alla conversione del documento in \ |STYLE20|\  e alla successiva pubblicazione nell’albo pretorio online, secondo le indicazioni fornite.
 
-* Il personale dell’UO Transizione al Digitale e UO Webmaster e Nodo Sitr del Servizio Innovazione, effettua un \ |STYLE20|\ , vigilando operativamente sugli atti pubblicati nell’albo pretorio online, relazionando costantemente il Dirigente del Servizio Innovazione, che comunicherà a sua volta lo stato dettagliato del rispetto del formato di pubblicazione all’Agenzia per l’Italia Digitale, Ufficio del Difensore Civico per il Digitale.
+* Il personale dell’UO Transizione al Digitale e UO Webmaster e Nodo Sitr del Servizio Innovazione, effettua un \ |STYLE21|\ , vigilando operativamente sugli atti pubblicati nell’albo pretorio online, relazionando costantemente il Dirigente del Servizio Innovazione, che comunicherà a sua volta lo stato dettagliato del rispetto del formato di pubblicazione all’Agenzia per l’Italia Digitale, Ufficio del Difensore Civico per il Digitale.
 
-* La Sispi, avviato il nuovo processo di pubblicazione in formato PDF accessibile, rimane onerata di generare un flusso xml, in tempo reale, che contenga la metadatazione dell’atto amministrativo oltre ad un url univoco che ne consenta l’accesso diretto. Tale adeguamento è necessario per ottemperare all’obbligo di pubblicazione previsto dal \ |STYLE21|\ .
+* La Sispi, avviato il nuovo processo di pubblicazione in formato PDF accessibile, rimane onerata di generare un flusso xml, in tempo reale, che contenga la metadatazione dell’atto amministrativo oltre ad un url univoco che ne consenta l’accesso diretto. Tale adeguamento è necessario per ottemperare all’obbligo di pubblicazione previsto dal \ |STYLE22|\ .
 
 * La presente Circolare ha decorrenza immediata.
 
@@ -145,15 +142,15 @@ Ufficio Innovazione 25.05.2018
 
 ..  Important:: 
 
-    Circolare via email a \ |LINK9|\ 
+    Circolare via email a \ |LINK10|\ 
     
     cc: Sindaco - Segretario Generale  - Vice Segretario Generale  - Nucleo di Valutazione  - Sispi SpA - Ciro Spataro - Webmaster Comune di Palermo 
     
     Date: 25 maggio 2018 13:45
 
-\ |STYLE22|\ 
+\ |STYLE23|\ 
 
-Facendo seguito alla \ |LINK10|\  e in riferimento ai dubbi interpretativi pervenuti da diversi Uffici, fondamentalmente riferiti a non sufficiente padronanza delle nozioni minime riferibili alla più diffusa tecnologia informatica, nonché agli strumenti di produzione documentale diffusi presso tutti gli Uffici comunali, si ritiene opportuno precisare quanto segue.
+Facendo seguito alla \ |LINK11|\  e in riferimento ai dubbi interpretativi pervenuti da diversi Uffici, fondamentalmente riferiti a non sufficiente padronanza delle nozioni minime riferibili alla più diffusa tecnologia informatica, nonché agli strumenti di produzione documentale diffusi presso tutti gli Uffici comunali, si ritiene opportuno precisare quanto segue.
 
 #. Tutti i documenti prodotti dagli Uffici dell’Amministrazione e che debbano essere pubblicati online devono essere generati sin dall’inizio in formato PDF nel rispetto dei requisiti tecnici di accessibilità riportati nell’Allegato A del Decreto Ministeriale 8 luglio 2005. Tali documenti dovranno circolare all’interno dell’Amministrazione (quindi tra i singoli uffici) mediante trasmissione elettronica (email). L’Ufficio che dovrà, pertanto, pubblicare online il proprio atto amministrativo, dovrà aver cura di verificare il rispetto della superiore condizione da parte degli Uffici che hanno fatto pervenire i documenti. Tutti gli Uffici che producono atti amministrativi usano un editor di testo (es. Word, Libre Office, Open Office) per generarli, il che significa che ogni Ufficio ne detiene il file originario in formato accessibile e trasformabile tempestivamente in formato PDF nel rispetto dei requisiti tecnici di accessibilità. Appare opportuno sottolineare che la regolamentazione comunale sulla pubblicazione documentale non può che ricondursi al dettato del Codice dell’Amministrazione Digitale e ove si ravvisino difformità, è necessario, per gli Uffici competenti, provvedere alle dovute correzioni.
 
@@ -169,7 +166,7 @@ Facendo seguito alla \ |LINK10|\  e in riferimento ai dubbi interpretativi perve
 
 La versione “pubblicazione” sarà, quindi, salvata in formato PDF nel rispetto dei requisiti tecnici di accessibilità secondo le modalità descritte nella Circolare N. prot. AREG/796170/2018 del 16/05/2018.
 
-#. Fermo restando che il Codice dell’Amministrazione Digitale, all’art. 23, ter (\ |LINK11|\ ) prevede che ”Gli atti formati dalle pubbliche amministrazioni con strumenti informatici, nonché i dati e i documenti informatici detenuti dalle stesse, costituiscono informazione primaria ed originale da cui è possibile effettuare, su diversi o identici tipi di supporto, duplicazioni e copie per gli usi consentiti dalla legge”, qualora l’atto pubblicato online non contenga la “firma digitale”, è consentita la pubblicazione online inserendo nello stesso la seguente dizione: “il presente atto è conforme nei contenuti all’originale, conservato agli atti d’Ufficio dell’Amministrazione”.
+#. Fermo restando che il Codice dell’Amministrazione Digitale, all’art. 23, ter (\ |LINK12|\ ) prevede che ”Gli atti formati dalle pubbliche amministrazioni con strumenti informatici, nonché i dati e i documenti informatici detenuti dalle stesse, costituiscono informazione primaria ed originale da cui è possibile effettuare, su diversi o identici tipi di supporto, duplicazioni e copie per gli usi consentiti dalla legge”, qualora l’atto pubblicato online non contenga la “firma digitale”, è consentita la pubblicazione online inserendo nello stesso la seguente dizione: “il presente atto è conforme nei contenuti all’originale, conservato agli atti d’Ufficio dell’Amministrazione”.
 
 Il Dirigente del Servizio Innovazione, dott. Gabriele Marchese
 
@@ -189,7 +186,7 @@ Staff Organi Istituzionali - Vice Segretario Generale 10.07.2018
     
     E p.c. al Sig. Segretario Generale - al Capo di Gabinetto del Sindaco - al Dirigente del Servizio Innovazione
 
-\ |STYLE23|\ 
+\ |STYLE24|\ 
 
 Continuano a pervenire presso questa Segreteria Generale per la numerazione e successiva pubblicazione, Determinazioni Sindacali in formato esclusivamente cartaceo e non già anche nel formato digitale nativo (DOC, DOCX ....).
 
@@ -215,7 +212,7 @@ Staff Organi Istituzionali - Vice Segretario Generale 17.07.2018
     
     E p.c. al Sig. Segretario Generale - al Capo di Gabinetto di Gabinetto - al Dirigente del Servizio Innovazione - all’Ufficio Archivio Generale - all’U.O. Messi/Albo Pretorio
 
-\ |STYLE24|\ 
+\ |STYLE25|\ 
 
 Nel fare seguito alla ns. nota prot. n. 973603/1 del 10/07/2018, con la quale le SS.LL. sono state già invitate a trasmettere all’Archivio della Segreteria Generale le determinazioni sindacali da pubblicare all’Albo Pretorio on line oltre che in formato cartaceo anche nel formato digitale nativo (Doc, Docx...) all’indirizzo e-mail a ciò dedicato\ [#F4]_\ . 
 
@@ -241,7 +238,7 @@ Ufficio Innovazione 19.07.2018
     
     Date: Thu, 19 Jul 2018 12:16:11 
 
-\ |STYLE25|\ 
+\ |STYLE26|\ 
 
 In riferimento alla nota dell'Agenzia per l’Italia Digitale, Ufficio del Difensore Civico Digitale, invito n. 1/2018 notificato con PEC del 10.05.2018 con la quale ha chiesto al Comune di Palermo di porre rimedio alla pubblicazione in formato .PDF come documenti immagini - derivanti dall'attività di scansione degli atti cartacei - e di notiziare la stessa Agenzia sullo stato di adempimento, si rassegna la seguente relazione sulle attività svolte.
 
@@ -251,7 +248,7 @@ In riferimento alla nota dell'Agenzia per l’Italia Digitale, Ufficio del Difen
 
  
 
-Con nota n. \ |LINK12|\  (Comune di Palermo, Area Servizi alla città) è stata inviata circolare alle funzioni dirigenziali indicando le modalità di pubblicazione degli atti al fine di rispettare l'accessibilità dei documenti pubblicati in albo pretorio.
+Con nota n. \ |LINK13|\  (Comune di Palermo, Area Servizi alla città) è stata inviata circolare alle funzioni dirigenziali indicando le modalità di pubblicazione degli atti al fine di rispettare l'accessibilità dei documenti pubblicati in albo pretorio.
 
  
 
@@ -265,7 +262,7 @@ Con email del  25 maggio 2018 dell'Ufficio Innovazione, alle funzioni dirigenzia
 
 L'email conteneva il seguente testo:
 
-Facendo seguito alla \ |LINK13|\  e in riferimento ai dubbi interpretativi pervenuti da diversi Uffici, fondamentalmente riferiti a non sufficiente padronanza delle nozioni minime riferibili alla più diffusa tecnologia informatica, nonché agli strumenti di produzione documentale diffusi presso tutti gli Uffici comunali, si ritiene opportuno precisare quanto segue.
+Facendo seguito alla \ |LINK14|\  e in riferimento ai dubbi interpretativi pervenuti da diversi Uffici, fondamentalmente riferiti a non sufficiente padronanza delle nozioni minime riferibili alla più diffusa tecnologia informatica, nonché agli strumenti di produzione documentale diffusi presso tutti gli Uffici comunali, si ritiene opportuno precisare quanto segue.
 
 * Tutti i documenti prodotti dagli Uffici dell’Amministrazione e che debbano essere pubblicati online devono essere generati sin dall’inizio in formato PDF nel rispetto dei requisiti tecnici di accessibilità riportati nell’Allegato A del Decreto Ministeriale 8 luglio 2005. Tali documenti dovranno circolare all’interno dell’Amministrazione (quindi tra i singoli uffici) mediante trasmissione elettronica (email). L’Ufficio che dovrà, pertanto, pubblicare online il proprio atto amministrativo, dovrà aver cura di verificare il rispetto della superiore condizione da parte degli Uffici che hanno fatto pervenire i documenti. Tutti gli Uffici che producono atti amministrativi usano un editor di testo (es. Word, Libre Office, Open Office) per generarli, il che significa che ogni Ufficio ne detiene il file originario in formato accessibile e trasformabile tempestivamente in formato PDF nel rispetto dei requisiti tecnici di accessibilità. Appare opportuno sottolineare che la regolamentazione comunale sulla pubblicazione documentale non può che ricondursi al dettato del Codice dell’Amministrazione Digitale e ove si ravvisino difformità, è necessario, per gli Uffici competenti, provvedere alle dovute correzioni.
 
@@ -281,7 +278,7 @@ Facendo seguito alla \ |LINK13|\  e in riferimento ai dubbi interpretativi perve
 
 * La versione “pubblicazione” sarà, quindi, salvata in formato PDF nel rispetto dei requisiti tecnici di accessibilità secondo le modalità descritte nella Circolare N. prot. AREG/796170/2018 del 16/05/2018.
 
-Fermo restando che il Codice dell’Amministrazione Digitale, all’art. 23, ter (\ |LINK14|\ ) prevede che ”Gli atti formati dalle pubbliche amministrazioni con strumenti informatici, nonché i dati e i documenti informatici detenuti dalle stesse, costituiscono informazione primaria ed originale da cui è possibile effettuare, su diversi o identici tipi di supporto, duplicazioni e copie per gli usi consentiti dalla legge”, qualora l’atto pubblicato online non contenga la “firma digitale”, è consentita la pubblicazione online inserendo nello stesso la seguente dizione: “il presente atto è conforme nei contenuti all'originale, conservato agli atti d’Ufficio dell’Amministrazione”.
+Fermo restando che il Codice dell’Amministrazione Digitale, all’art. 23, ter (\ |LINK15|\ ) prevede che ”Gli atti formati dalle pubbliche amministrazioni con strumenti informatici, nonché i dati e i documenti informatici detenuti dalle stesse, costituiscono informazione primaria ed originale da cui è possibile effettuare, su diversi o identici tipi di supporto, duplicazioni e copie per gli usi consentiti dalla legge”, qualora l’atto pubblicato online non contenga la “firma digitale”, è consentita la pubblicazione online inserendo nello stesso la seguente dizione: “il presente atto è conforme nei contenuti all'originale, conservato agli atti d’Ufficio dell’Amministrazione”.
 
  
 
@@ -331,57 +328,59 @@ Con l'occasione si porgono cordiali saluti. Il Dirigente dell'Ufficio Innovazion
 .. bottom of content
 
 
-.. |STYLE0| replace:: **Invito n.1/2008 al Comune di Palermo, a seguito di segnalazione n.18/2018 (Prot. AgID n.6004 del 13/03/2018), relativa all’accessibilità dei documenti pubblicati sul sito.**
+.. |STYLE0| replace:: **Attività svolte dagli uffici comunali per adottare formati accessibili per gli atti oggetto di pubblicazione sull’Albo Pretorio del Comune di Palermo**
 
-.. |STYLE1| replace:: **Oggetto: Modalità di pubblicazione in formato aperto e accessibile degli atti**
+.. |STYLE1| replace:: **al Comune di Palermo, a seguito di segnalazione n.18/2018 (Prot. AgID n.6004 del 13/03/2018), relativa all’accessibilità dei documenti pubblicati sul sito.**
 
-.. |STYLE2| replace:: **amministrativi nell’Albo Pretorio del sito web istituzionale, al fine del rispetto dei**
+.. |STYLE2| replace:: **Oggetto: Modalità di pubblicazione in formato aperto e accessibile degli atti**
 
-.. |STYLE3| replace:: **requisiti di accessibilità.**
+.. |STYLE3| replace:: **amministrativi nell’Albo Pretorio del sito web istituzionale, al fine del rispetto dei**
 
-.. |STYLE4| replace:: **Il Codice dell’Amministrazione Digitale, art. 23 ter, comma 5 bis, del Decreto legislativo 7 marzo 2005**
+.. |STYLE4| replace:: **requisiti di accessibilità.**
 
-.. |STYLE5| replace:: **Il Decreto Legislativo n. 33 del 14 marzo 2013 all’art. 6, comma 1**
+.. |STYLE5| replace:: **Il Codice dell’Amministrazione Digitale, art. 23 ter, comma 5 bis, del Decreto legislativo 7 marzo 2005**
 
-.. |STYLE6| replace:: **Il Decreto Legislativo n. 33 del 14 marzo 2013 all’art. 7**
+.. |STYLE6| replace:: **Il Decreto Legislativo n. 33 del 14 marzo 2013 all’art. 6, comma 1**
 
-.. |STYLE7| replace:: **del Decreto Ministeriale 8 luglio 2005**
+.. |STYLE7| replace:: **Il Decreto Legislativo n. 33 del 14 marzo 2013 all’art. 7**
 
-.. |STYLE8| replace:: **.pdf come documenti immagini**
+.. |STYLE8| replace:: **del Decreto Ministeriale 8 luglio 2005**
 
-.. |STYLE9| replace:: **Atteso che**
+.. |STYLE9| replace:: **.pdf come documenti immagini**
 
-.. |STYLE10| replace:: **.pdf come documenti immagini**
+.. |STYLE10| replace:: **Atteso che**
 
-.. |STYLE11| replace:: **Allegato A del Decreto Ministeriale 8 luglio 2005**
+.. |STYLE11| replace:: **.pdf come documenti immagini**
 
-.. |STYLE12| replace:: **formato in PDF nel rispetto dei requisiti tecnici di accessibilità riportati nell’Allegato A del Decreto Ministeriale 8 luglio 2005**
+.. |STYLE12| replace:: **Allegato A del Decreto Ministeriale 8 luglio 2005**
 
 .. |STYLE13| replace:: **formato in PDF nel rispetto dei requisiti tecnici di accessibilità riportati nell’Allegato A del Decreto Ministeriale 8 luglio 2005**
 
 .. |STYLE14| replace:: **formato in PDF nel rispetto dei requisiti tecnici di accessibilità riportati nell’Allegato A del Decreto Ministeriale 8 luglio 2005**
 
-.. |STYLE15| replace:: **Si sottolinea, ancora una volta, che la procedura della scansione degli atti amministrativi stampati e firmati a penna, è totalmente non conforme alle vigenti norme riportate nella sezione “Considerato che” della presente circolare.**
+.. |STYLE15| replace:: **formato in PDF nel rispetto dei requisiti tecnici di accessibilità riportati nell’Allegato A del Decreto Ministeriale 8 luglio 2005**
 
-.. |STYLE16| replace:: **formato PDF accessibile nel rispetto dei requisiti tecnici di accessibilità riportati nell’Allegato A del Decreto Ministeriale 8 luglio 2005**
+.. |STYLE16| replace:: **Si sottolinea, ancora una volta, che la procedura della scansione degli atti amministrativi stampati e firmati a penna, è totalmente non conforme alle vigenti norme riportate nella sezione “Considerato che” della presente circolare.**
 
-.. |STYLE17| replace:: **formato PDF nel rispetto dei requisiti tecnici di accessibilità riportati nell’Allegato A del Decreto Ministeriale 8 luglio 2005**
+.. |STYLE17| replace:: **formato PDF accessibile nel rispetto dei requisiti tecnici di accessibilità riportati nell’Allegato A del Decreto Ministeriale 8 luglio 2005**
 
-.. |STYLE18| replace:: **formato DOC**
+.. |STYLE18| replace:: **formato PDF nel rispetto dei requisiti tecnici di accessibilità riportati nell’Allegato A del Decreto Ministeriale 8 luglio 2005**
 
-.. |STYLE19| replace:: **PDF nel rispetto dei requisiti tecnici di accessibilità riportati nell’Allegato A del Decreto Ministeriale 8 luglio 2005**
+.. |STYLE19| replace:: **formato DOC**
 
-.. |STYLE20| replace:: **monitoraggio sullo stato di attuazione della presente Circolare**
+.. |STYLE20| replace:: **PDF nel rispetto dei requisiti tecnici di accessibilità riportati nell’Allegato A del Decreto Ministeriale 8 luglio 2005**
 
-.. |STYLE21| replace:: **Decreto Legislativo n. 33 del 14 marzo 2013**
+.. |STYLE21| replace:: **monitoraggio sullo stato di attuazione della presente Circolare**
 
-.. |STYLE22| replace:: **Oggetto: Modalità di pubblicazione in formato aperto e accessibile degli atti amministrativi nell’Albo Pretorio del sito web istituzionale, al fine del rispetto dei requisiti di accessibilità. Integrazione alla Circolare prot. AREG/796170/2018 del 16/05/2018**
+.. |STYLE22| replace:: **Decreto Legislativo n. 33 del 14 marzo 2013**
 
-.. |STYLE23| replace:: **Oggetto: Pubblicazione in formato accessibile delle Determinazioni Sindacali gs. circolare prot. AREG/796170/2018 del 16/05/2018 del Servizio Innovazione.**
+.. |STYLE23| replace:: **Oggetto: Modalità di pubblicazione in formato aperto e accessibile degli atti amministrativi nell’Albo Pretorio del sito web istituzionale, al fine del rispetto dei requisiti di accessibilità. Integrazione alla Circolare prot. AREG/796170/2018 del 16/05/2018**
 
-.. |STYLE24| replace:: **OGGETTO: Pubblicazione in formato accessibile delle Ordinanze Sindacali gs. circolare prot. AREG/7961/2018 del 16/05/2018 del Servizio Innovazione.**
+.. |STYLE24| replace:: **Oggetto: Pubblicazione in formato accessibile delle Determinazioni Sindacali gs. circolare prot. AREG/796170/2018 del 16/05/2018 del Servizio Innovazione.**
 
-.. |STYLE25| replace:: **Oggetto: Nota invito n. 1/2018 del Difensore Civico del Digitale (AGID) e attività intraprese dal Comune di Palermo**
+.. |STYLE25| replace:: **OGGETTO: Pubblicazione in formato accessibile delle Ordinanze Sindacali gs. circolare prot. AREG/7961/2018 del 16/05/2018 del Servizio Innovazione.**
+
+.. |STYLE26| replace:: **Oggetto: Nota invito n. 1/2018 del Difensore Civico del Digitale (AGID) e attività intraprese dal Comune di Palermo**
 
 
 .. |LINK1| raw:: html
@@ -394,49 +393,53 @@ Con l'occasione si porgono cordiali saluti. Il Dirigente dell'Ufficio Innovazion
 
 .. |LINK3| raw:: html
 
-    <a href="http://www.agid.gov.it/sites/default/files/circolari/circolare_accessibilta_29_marzo_2013.pdf" target="_blank">Circolare n.  61/2013 dell’AgID</a>
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/invito_n.1-2018_comune_palermo.0009364.10-05-2018.pdf" target="_blank">Invito n.1/2008</a>
 
 .. |LINK4| raw:: html
 
-    <a href="http://www.agid.gov.it/dm-8-luglio-2005-allegato-A" target="_blank">Allegato A</a>
+    <a href="http://www.agid.gov.it/sites/default/files/circolari/circolare_accessibilta_29_marzo_2013.pdf" target="_blank">Circolare n.  61/2013 dell’AgID</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://www.comune.palermo.it/amministrazione_trasparente.php?sel=1&asel=97" target="_blank">“Disposizioni Generali” / “Attestazioni di OIV o struttura analoga” di Amministrazione Trasparente</a>
+    <a href="http://www.agid.gov.it/dm-8-luglio-2005-allegato-A" target="_blank">Allegato A</a>
 
 .. |LINK6| raw:: html
 
-    <a href="mailto:affari.istituzionali@comune.palermo.it">affari.istituzionali@comune.palermo.it</a>
+    <a href="https://www.comune.palermo.it/amministrazione_trasparente.php?sel=1&asel=97" target="_blank">“Disposizioni Generali” / “Attestazioni di OIV o struttura analoga” di Amministrazione Trasparente</a>
 
 .. |LINK7| raw:: html
 
-    <a href="mailto:protocollo@sispi.it">protocollo@sispi.it</a>
+    <a href="mailto:affari.istituzionali@comune.palermo.it">affari.istituzionali@comune.palermo.it</a>
 
 .. |LINK8| raw:: html
 
-    <a href="mailto:helpdesk@sispi.it">helpdesk@sispi.it</a>
+    <a href="mailto:protocollo@sispi.it">protocollo@sispi.it</a>
 
 .. |LINK9| raw:: html
 
-    <a href="mailto:dirigenti@comune.palermo.it">dirigenti@comune.palermo.it</a>
+    <a href="mailto:helpdesk@sispi.it">helpdesk@sispi.it</a>
 
 .. |LINK10| raw:: html
 
-    <a href="https://drive.google.com/file/d/0B9q5qob_W3NiVXk0YUlUZmkxX1lPd2w1b0M4WUctVXQ4eHJZ/view?usp=sharing" target="_blank">Circolare prot. AREG/796170/2018 del 16/05/2018</a>
+    <a href="mailto:dirigenti@comune.palermo.it">dirigenti@comune.palermo.it</a>
 
 .. |LINK11| raw:: html
 
-    <a href="http://cad.readthedocs.io/it/v2017-12-13/_rst/capo2_sezione1_art23-ter.html?highlight=documento%20informatico" target="_blank">art. 23-ter. Documenti amministrativi informatici</a>
+    <a href="https://drive.google.com/file/d/0B9q5qob_W3NiVXk0YUlUZmkxX1lPd2w1b0M4WUctVXQ4eHJZ/view?usp=sharing" target="_blank">Circolare prot. AREG/796170/2018 del 16/05/2018</a>
 
 .. |LINK12| raw:: html
 
-    <a href="https://drive.google.com/file/d/0B9q5qob_W3NiVXk0YUlUZmkxX1lPd2w1b0M4WUctVXQ4eHJZ/view" target="_blank">prot. AREG/796170/2018 del 16/05/2018 dell'Ufficio Innovazione</a>
+    <a href="http://cad.readthedocs.io/it/v2017-12-13/_rst/capo2_sezione1_art23-ter.html?highlight=documento%20informatico" target="_blank">art. 23-ter. Documenti amministrativi informatici</a>
 
 .. |LINK13| raw:: html
 
-    <a href="https://drive.google.com/file/d/0B9q5qob_W3NiVXk0YUlUZmkxX1lPd2w1b0M4WUctVXQ4eHJZ/view?usp=sharing" target="_blank">Circolare prot. AREG/796170/2018 del 16/05/2018</a>
+    <a href="https://drive.google.com/file/d/0B9q5qob_W3NiVXk0YUlUZmkxX1lPd2w1b0M4WUctVXQ4eHJZ/view" target="_blank">prot. AREG/796170/2018 del 16/05/2018 dell'Ufficio Innovazione</a>
 
 .. |LINK14| raw:: html
+
+    <a href="https://drive.google.com/file/d/0B9q5qob_W3NiVXk0YUlUZmkxX1lPd2w1b0M4WUctVXQ4eHJZ/view?usp=sharing" target="_blank">Circolare prot. AREG/796170/2018 del 16/05/2018</a>
+
+.. |LINK15| raw:: html
 
     <a href="http://cad.readthedocs.io/it/v2017-12-13/_rst/capo2_sezione1_art23-ter.html?highlight=documento%20informatico" target="_blank">art. 23-ter. Documenti amministrativi informatici</a>
 
