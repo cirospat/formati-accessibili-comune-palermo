@@ -6,6 +6,12 @@ Formati accessibili online del Comune di Palermo
 
 Attività svolte dagli uffici comunali per adottare formati accessibili per gli atti oggetto di pubblicazione sull’Albo Pretorio del Comune di Palermo
 
+.. toctree::  
+    :maxdepth: 3
+    :caption: Contenuti
+
+    index
+
 .. _h2c1d74277104e41780968148427e:
 
 
@@ -16,13 +22,14 @@ Attività svolte dagli uffici comunali per adottare formati accessibili per gli 
 AGID Difensore Civico per il Digitale invito n. 1 del 10.05.2018
 ================================================================
 
-Ufficio Difensore Civico per il Digitale al Comune di Palermo
 
-\ |LINK1|\ 
+..  Important:: 
 
-PEC: agid.AOO-AgID.REGISTRO UFFICIALE(U).0009364.10-05-2018. 
-
-Ufficio del Difensore Civico per il Digitale al Comune di Palermo \ |LINK2|\ 
+    Ufficio Difensore Civico per il Digitale al Comune di Palermo - \ |LINK1|\ 
+    
+    PEC: agid.AOO-AgID.REGISTRO UFFICIALE(U).0009364.10-05-2018. 
+    
+    Ufficio del Difensore Civico per il Digitale al Comune di Palermo \ |LINK2|\ 
 
 \ |STYLE0|\  
 
@@ -45,11 +52,14 @@ cordiali saluti - firmato digitalmente da Massimo Macchia - agid.AOO-AgID.REGIST
 Ufficio Innovazione 16.05.2018
 ==============================
 
-Circolare inviata con prot. AREG/796170/2018 del 16/05/2018
 
-Ai Dirigenti - Alla SISPI SpA - All’UO Transizione al Digitale - All’UO Webmaster e Nodo Sitr 
+..  Important:: 
 
-E p.c.: al Sig. Sindaco - Al Segretario Generale - Al Responsabile della Trasparenza - Al Nucleo di Valutazione - All’AGID, Ufficio del Difensore Civico Digitale
+    Circolare inviata con prot. AREG/796170/2018 del 16/05/2018
+    
+    Ai Dirigenti - alla SISPI SpA - all’UO Transizione al Digitale - all’UO Webmaster e Nodo Sitr 
+    
+    E p.c.: al Sig. Sindaco - al Segretario Generale - al Responsabile della Trasparenza - al Nucleo di Valutazione - all’AGID, Ufficio del Difensore Civico Digitale
 
 \ |STYLE1|\ 
 
@@ -134,13 +144,14 @@ Il Dirigente del Servizio Innovazione, Responsabile Pubblicazione (D.Lgs. 33/201
 Ufficio Innovazione 25.05.2018
 ==============================
 
-Circolare via email a
 
-\ |LINK9|\ 
+..  Important:: 
 
-cc: Sindaco - Segretario Generale  - Vicesegretario Generale  - Nucleo di Valutazione  - Sispi SpA - Ciro Spataro - Webmaster Comune di Palermo 
-
-Date: 25 maggio 2018 13:45
+    Circolare via email a \ |LINK9|\ 
+    
+    cc: Sindaco - Segretario Generale  - Vice Segretario Generale  - Nucleo di Valutazione  - Sispi SpA - Ciro Spataro - Webmaster Comune di Palermo 
+    
+    Date: 25 maggio 2018 13:45
 
 \ |STYLE22|\ 
 
@@ -171,13 +182,16 @@ Il Dirigente del Servizio Innovazione, dott. Gabriele Marchese
 Staff Organi Istituzionali - Vice Segretario Generale 10.07.2018
 ================================================================
 
+
+..  Important:: 
+
+    Palermo, 10-07-2018 Prot. n. 973603/1
+    
+    A tutti i Sig.ri Dirigenti
+    
+    E p.c. al Sig. Segretario Generale - al Capo di Gabinetto del Sindaco - al Dirigente del Servizio Innovazione
+
 \ |STYLE23|\ 
-
-Palermo, 10-07-2018 Prot. n. 973603/1
-
-A tutti i Sig.ri Dirigenti
-
-E p.c. Al Sig. Segretario Generale - Al Capo di Gabinetto del Sindaco - Al Dirigente del Servizio Innovazione
 
 Continuano a pervenire presso questa Segreteria Generale per la numerazione e successiva pubblicazione, Determinazioni Sindacali in formato esclusivamente cartaceo e non già anche nel formato digitale nativo (DOC, DOCX ....).
 
@@ -194,13 +208,16 @@ Distinti saluti. Il Vice Segretario Generale, Dott. Vincenzo Messina
 Staff Organi Istituzionali - Vice Segretario Generale 17.07.2018
 ================================================================
 
+
+..  Important:: 
+
+    Palermo, 17-07-2018 Prot. n. 991737/1
+    
+    A tutti i Sig.ri Dirigenti
+    
+    E p.c. al Sig. Segretario Generale - al Capo di Gabinetto di Gabinetto - al Dirigente del Servizio Innovazione - all’Ufficio Archivio Generale - all’U.O. Messi/Albo Pretorio
+
 \ |STYLE24|\ 
-
-Palermo, 17-07-2018 Prot. n. 991737/1
-
-A tutti i Sig.ri Dirigenti
-
-E p.c. al Sig. Segretario Generale - Al Capo di Gabinetto di Gabinetto - Al Dirigente del Servizio Innovazione - All’Ufficio Archivio Generale - All’U.O. Messi/Albo Pretorio
 
 Nel fare seguito alla ns. nota prot. n. 973603/1 del 10/07/2018, con la quale le SS.LL. sono state già invitate a trasmettere all’Archivio della Segreteria Generale le determinazioni sindacali da pubblicare all’Albo Pretorio on line oltre che in formato cartaceo anche nel formato digitale nativo (Doc, Docx...) all’indirizzo e-mail a ciò dedicato\ [#F4]_\ . 
 
@@ -219,11 +236,12 @@ Distinti saluti. F.to Il Vice Segretario Generale, Dott. Vincenzo Messina
 Ufficio Innovazione 19.07.2018
 ==============================
 
-Email all’AGID
 
-Date: Thu, 19 Jul 2018 12:16:11 
+..  Important:: 
 
-To: protocollo@pec.agid.gov.it
+    PEC dell’Ufficio Innovazione all’AGID - To: protocollo@pec.agid.gov.it
+    
+    Date: Thu, 19 Jul 2018 12:16:11 
 
 \ |STYLE25|\ 
 
