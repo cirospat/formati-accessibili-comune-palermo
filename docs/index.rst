@@ -415,7 +415,6 @@ Distinti saluti - Il vice Segretario Generale, dott. Vincenzo Messina.
     <button class="Button Button--default js-fr-dialogmodal-open" aria-controls="modal">
       Info
     </button>
-    
     <div class="Dialog js-fr-dialogmodal" id="modal">
         <div class="
           Dialog-content
@@ -427,7 +426,7 @@ Distinti saluti - Il vice Segretario Generale, dott. Vincenzo Messina.
           js-fr-dialogmodal-modal
         " aria-labelledby="modal-title">
             <div role="document" class="Prose">
-                <h2 class="u-cf u-text-h2 u-borderHideFocus" id="modal-title" tabindex="0">Sit et cum iure illum ducimus dignissimos fuga iste.</h2>
+                <h2 class="u-cf u-text-h2 u-borderHideFocus" id="modal-title" tabindex="0">PROVA 1.</h2>
                 <p>
                     Prova di dialog box.
                 </p>
