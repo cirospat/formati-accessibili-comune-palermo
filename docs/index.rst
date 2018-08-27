@@ -437,9 +437,7 @@ Con riguardo alla decorrenza dei predetti termini, 7 gg. o 3 gg., \ |STYLE59|\  
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-\ |STYLE60|\ , in indirizzo, si chiede di avviare, tramite la Società SISPI S.p.A.,
-
-l’introduzione dell’utilizzo dell’applicativo gestionale “Determine-Delibere”, anche in maniera sperimentale con singoli Uffici-pilota (quali ad esempio l’Ufficio Innovazione, l’Area della Ragioneria Generale, lo Staff Segretario Generale e lo Staff Vice Segretario Generale), così da consentire a questa Amministrazione comunale di operare, in tempi auspicabilmente brevissimi, in maniera ottimizzata per la gestione digitale del ciclo di vita dei provvedimenti amministrativi suscettibili di pubblicazione all’Albo Pretorio on line, nonché di estendere gradualmente l’uso dello stesso applicativo a tutta la struttura comunale.
+\ |STYLE60|\ , in indirizzo, si chiede di avviare, tramite la Società SISPI S.p.A., l’’introduzione dell’utilizzo dell’applicativo gestionale “Determine-Delibere”, anche in maniera sperimentale con singoli Uffici-pilota (quali ad esempio l’Ufficio Innovazione, l’Area della Ragioneria Generale, lo Staff Segretario Generale e lo Staff Vice Segretario Generale), così da consentire a questa Amministrazione comunale di operare, in tempi auspicabilmente brevissimi, in maniera ottimizzata per la gestione digitale del ciclo di vita dei provvedimenti amministrativi suscettibili di pubblicazione all’Albo Pretorio on line, nonché di estendere gradualmente l’uso dello stesso applicativo a tutta la struttura comunale.
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
