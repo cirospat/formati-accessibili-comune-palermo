@@ -346,6 +346,108 @@ Distinti saluti - Il vice Segretario Generale, dott. Vincenzo Messina.
 
 --------
 
+.. _h26f2a145a26673b505368662b295a46:
+
+Segretario Generale 24.08.2018
+==============================
+
+
+..  Important:: 
+
+    Circolare inviata con prot. AREG 1088472/USG del 24/08/2018
+    
+    Ai Dirigenti -  al Dirigente del Servizio Innovazione
+    E p.c.: al Sig. Sindaco - alla Presidenza del Consiglio Comunale - al Collegio dei Revisori dei Conti - alla SISPI SpA
+
+\ |STYLE27|\ .
+
+Si fa, anzitutto, riferimento, in relazione all’argomento in epigrafe, ai contenuti di cui alla nota del Responsabile per la pubblicazione (ex D.Lgs. 33/2013 e ss.mm.ii.), prot. n. 796170/2018 del 16/05/2018, per precisare opportunamente quanto segue.
+
+Preliminarmente, lo scrivente non può che condividere la necessità di adeguare le modalità di pubblicazione degli atti amministrativi all’Albo Pretorio on line dell’Ente alle disposizioni di cui all’art 23 ter, comma 5 bis del D. Lgs. 33/2013, al Codice dell’Amministrazione Digitale (CAD), sia per far fronte alle richieste avanzate in tal senso dall’AGID che al fine di realizzare una effettiva “inclusione digitale di lavoratori ed utenti con disabilità”.
+
+Si condividono, pertanto, le prescrizioni contenute nella citata circolare del Responsabile per la Pubblicazione in ordine all’adozione, da parte delle funzioni dirigenziali, delle misure operative necessarie alla pubblicazione degli atti amministrativi di rispettiva competenza “nel rispetto dei requisiti tecnici di accessibilità riportati nell’allegato A del Decreto Ministeriale 8 luglio 2005”, e, al contempo, delle disposizioni dettate dal vigente “Regolamento per la Pubblicazione degli atti all’Albo pretorio on line” (visionabile sul portale web istituzionale del Comune).
+
+Di conseguenza, si apprezza il richiamo, nella citata circolare, alla responsabilità dirigenziale in ordine “\ |STYLE28|\  \ |STYLE29|\ ”, rammentando, al riguardo, il disposto di cui all’art. 7 del citato Regolamento comunale per la pubblicazione degli atti all’Albo Pretorio on-line, ai sensi del quale “\ |STYLE30|\ ”.
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+Si coglie, inoltre, l’occasione per fornire ulteriori istruzioni ad integrazione di quelle già contenute nella precedente direttiva prot. n. 635/USG del 02/01/2018 (avente ad oggetto: \ |STYLE31|\ ) - emanata dal Sig. Segretario Generale nell’ambito dell’attività di controllo di regolarità giuridico-amministrativa prevista per legge - con particolare riferimento alle modalità redazionali (e procedurali) dei provvedimenti amministrativi da proporre agli organi politico-istituzionali per la relativa adozione.
+
+E, pertanto, nel richiamare la vigente normativa dettata dal CAD in tema di documenti amministrativi informatici nonché in tema pubblicazione all’Albo Pretorio on line, al fine di favorire – \ |STYLE32|\  – il rispetto degli obblighi di legge in materia, lo scrivente rassegna e dispone quanto segue.
+
+\ |STYLE33|\  – oltre alla predisposizione, da parte dell’Ufficio proponente, dei due consueti esemplari cartacei (con allegati ed esemplare “per estratto”) da trasmettere, in base alla vigente procedura, alla Ragioneria Generale per il normale iter istruttorio per la relativa adozione, dovranno altresì essere curati i seguenti adempimenti:
+
+* \ |STYLE34|\ , eseguire la contestuale trasmissione alla Ragioneria Generale di un fedele testo informatico della medesima proposta di provvedimento (con l’acclusa documentazione allegata e l’esemplare “per estratto”), in formato Doc/Docx, con l’avvertenza che tutta la documentazione da aggiungere a supporto dell’istruttoria e formata dall’Ufficio proponente dovrà essere prodotta anche nel medesimo formato nativo digitale (formato Doc/Docx) in cui è stato creato l’atto proposto. Sicché, ogni Ufficio proponente, nel rendere il parere di regolarità tecnica, dovrà avere cura di compilare in ogni sua parte anche il corrispondente relativo riquadro della versione in formato Doc/Docx del foglio pareri, anche vergando la casella corrispondente al parere “favorevole” o “contrario” nonché riportare, in luogo della/e firma/e autografa/e, l’espressione “F.to Il Dirigente” o suo delegato e “F.to Il Capo Area”. Ciò posto, contestualmente agli esemplari cartacei della proposta deliberativa, la corrispondente versione in formato Doc/Docx andrà inviata, a cura del Dirigente proponente l’atto (o del responsabile del procedimento), dal proprio account di posta elettronica istituzionale all’indirizzo di posta elettronica della Ragioneria Generale (ragioneria generale@comune.palermo.it ). La comunicazione email dovrà avere come oggetto la dicitura “PROPOSTA DI DELIBERAZIONE DI G.C. DELL’UFFICIO/SETTORE/AREA____- PROT. N._____ (AREG); la medesima trasmissione va eseguita, per conoscenza, all’Ufficio Affari Istituzionali (all’indirizzo di posta elettronica affari.istituzionali@comune.palermo.it), così come prescritto con precedente direttiva prot. n. 635/USG del 02/01/2018.
+
+* \ |STYLE35|\ , cui compete l’attività istruttoria ai fini dell’espressione del parere di regolarità contabile sulla proposta deliberativa in formato cartaceo, dovrà essere curata la compilazione dell’identico esemplare ricevuto per posta elettronica in formato Doc/Docx, al fine di integrarlo con le prescritte annotazioni (numero e data di protocollazione in entrata e in uscita,ecc.) nonché con i necessari visti, pareri - altresì riportando, in luogo della/e firma/e autografa/e, l’espressione “F.to Il Dirigente Responsabile di Ragioneria Generale” o suo delegato - così come contestualmente apportati all’esemplare cartaceo, con l’avvertenza che, ove ricorra la necessità di aggiungere, a fini istruttori, ulteriore documentazione, la stessa dovrà essere prodotta anche nel medesimo formato nativo digitale (formato Doc/Docx) in cui è stato riprodotto (e trasmesso) l’atto proposto. Sicché, la Ragioneria Generale, nel rendere il parere di regolarità contabile, dovrà avere cura di vergare anche all’interno del relativo riquadro della versione in formato Doc/Docx del foglio pareri la casella corrispondente al parere “favorevole”/”contrario”/”non dovuto” nonché riportare, in luogo della firma autografa, l’espressione “F.to Il Ragioniere Generale” o suo delegato. Una volta completata la suddetta attività istruttoria ai fini dell’espressione del parere di regolarità contabile, la Ragioneria Generale provvederà alla conseguente trasmissione all’Archivio della Segretaria Generale della proposta deliberativa in formato cartaceo contestualmente all’inoltro del testo informatico, ugualmente elaborato in formato Doc/Docx, della medesima proposta di provvedimento, dall’account di posta elettronica istituzionale della Ragioneria Generale (ragioneria \ |LINK17|\ ) all’account di posta elettronica istituzionale dell’Archivio della Segreteria Generale (archivio@comune.palermo.it ), per il prosieguo dell’iter di approvazione del provvedimento deliberativo;
+
+* \ |STYLE36|\  – detto Ufficio, previa protocollazione in entrata della proposta deliberativa in formato cartaceo, i cui estremi dovrà annotare anche sul testo informatico ricevuto per posta elettronica dalla Ragioneria Generale in formato Doc/Docx, provvederà al successivo inoltro all’Ufficio Affari Istituzionali dell’esemplare cartaceo con contestuale invio dello stesso in formato digitale Doc/Docx all’indirizzo affari.istituzionali@comune.palermo.it
+
+* \ |STYLE37|\ , provvederà alla istruttoria della proposta deliberativa con le medesime modalità sopra descritte per la Ragioneria Generale e, in seguito alla approvazione della stessa da parte della Giunta Comunale, trasmetterà brevi manu all’Ufficio Deliberazioni l’esemplare cartaceo, unitamente alla versione del documento in formato Doc/Docx come risultante dall’approvazione in sede deliberante.
+
+* \ |STYLE38|\  provvederà a corredare il provvedimento cartaceo dei necessari dati di numerazione ecc., ed, in egual maniera, anche il formato digitale del provvedimento adottato, curando il perfezionamento della versione definitiva trasformato per la relativa pubblicazione: a tal uopo, va effettuata la conversione dal formato Doc/Docx al formato PDF accessibile conformemente alle disposizioni del CAD, senza procedere ad alcuna scansione della documentazione dal formato cartaceo.
+
+\ |STYLE39|\ , come già precisato con riguardo alle proposte deliberative di Giunta comunale, oltre alla predisposizione, da parte dell’Ufficio proponente, di due esemplari cartacei da trasmettere, in base alla vigente procedura, alla Ragioneria Generale per il normale iter istruttorio ai fini della relativa adozione, dovranno altresì essere curati i seguenti adempimenti:
+
+* \ |STYLE40|\ , eseguire la contestuale trasmissione alla Ragioneria Generale di un fedele testo informatico della medesima proposta di provvedimento (con l’acclusa documentazione allegata e l’esemplare “per estratto”), in formato Doc/Docx, con l’avvertenza che tutta la documentazione da aggiungere a supporto dell’istruttoria e formata dall’Ufficio proponente dovrà essere prodotta anche nel medesimo formato nativo digitale (formato Doc/Docx) in cui è stato creato l’atto proposto. Sicché, ogni Ufficio proponente, nel rendere il parere di regolarità tecnica, dovrà avere cura di compilare in ogni sua parte anche il corrispondente relativo riquadro della versione in formato Doc/Docx del foglio pareri, anche vergando la casella corrispondente al parere “favorevole” o “contrario” nonché riportare, in luogo della/e firma/e autografa/e, l’espressione “F.to Il Dirigente” o suo delegato e “F.to Il Capo Area”. Ciò posto, contestualmente all’invio alla Ragioneria Generale degli esemplari cartacei della proposta deliberativa, la corrispondente versione in formato Doc/Docx andrà inviata a cura del Dirigente proponente l’atto (o del responsabile del procedimento), dal proprio account di posta elettronica istituzionale all’indirizzo di posta elettronica della Ragioneria Generale (ragioneria generale@comune.palermo.it). La comunicazione email dovrà avere come oggetto la dicitura “PROPOSTA DI DELIBERAZIONE DI C.C. DELL’UFFICIO/ SETTORE/ AREA____- PROT. N._____ (AREG); la medesima trasmissione va eseguita, per conoscenza, all’Ufficio Affari Istituzionali (all’indirizzo di posta elettronica affari.istituzionali@comune.palermo.it), così come prescritto con precedente direttiva prot. n. 635/USG del 02/01/2018.
+
+* \ |STYLE41|\ , cui compete l’attività istruttoria ai fini dell’espressione del parere di regolarità contabile sulla proposta deliberativa in formato cartaceo, dovrà essere curata la compilazione dell’identico esemplare ricevuto per posta elettronica in formato Doc/Docx, al fine di integrarlo con le prescritte annotazioni (numero di protocollazione in entrata e in uscita,ecc.) nonché con i necessari visti, pareri e firme, così come contestualmente apportati all’esemplare cartaceo, con l’avvertenza che, ove ricorra la necessità di aggiungere, a fini istruttori, ulteriore documentazione (anche quella di pertinenza dell’istruttoria di pertinenza del Collegio dei Revisori dei Conti), dovrà essere prodotta anche nel medesimo formato nativo digitale (formato Doc/Docx) in cui è stato riprodotto (e trasmesso) l’atto proposto. Sicché, la Ragioneria Generale, nel rendere il parere di regolarità contabile, dovrà avere cura di vergare anche all’interno del relativo riquadro della versione in formato Doc/Docx del foglio pareri la casella corrispondente al parere “favorevole”/”contrario”/”non dovuto” nonché riportare, in luogo della firma autografa, l’espressione “F.to Il Ragioniere Generale” o suo delegato. Una volta completata la suddetta attività istruttoria ai fini dell’espressione del parere di regolarità contabile, la Ragioneria Generale provvederà alla conseguente trasmissione all’Archivio della Segreteria Generale della proposta deliberativa in formato cartaceo contestualmente all’inoltro del testo informatico, ugualmente elaborato in formato Doc/Docx, della medesima proposta di provvedimento, dall’account di posta elettronica istituzionale della Ragioneria Generale (ragioneria \ |LINK18|\ ) all’account di posta elettronica istituzionale dell’Archivio della Segreteria Generale (archivio@comune.palermo.it), per il prosieguo dell’iter di approvazione del provvedimento deliberativo;
+
+* \ |STYLE42|\  – detto Ufficio, previa protocollazione in entrata della proposta deliberativa in formato cartaceo, i cui estremi dovrà annotare anche sul testo informatico ricevuto per posta elettronica dalla Ragioneria Generale in formato Doc/Docx, provvederà al successivo inoltro all’Ufficio Affari Istituzionali dell’esemplare cartaceo con contestuale invio dello stesso in formato Doc/Docx all’indirizzo affari.istituzionali@comune.palermo.it;
+
+* \ |STYLE43|\ , provvederà alla istruttoria della proposta deliberativa con le medesime modalità sopra descritte per la Ragioneria Generale, trasmettendo con nota protocollata all’Ufficio Autonomo Consiglio Comunale, la proposta in formato cartaceo, unitamente al formato Doc/Docx della stessa; lo stesso Ufficio Affari Istituzionali provvederà al contestuale inoltro al predetto Ufficio Autonomo C.C. a mezzo posta elettronica, oltre che della suddetta nota in formato Doc/Docx , anche del testo della proposta (e di tutta la documentazione allegata) come ricevuti in formato Doc/Docx, per il successivo iter procedimentale;
+
+* \ |STYLE44|\  – ricevuta la proposta deliberativa in formato cartaceo e l’eguale versione informatica in formato Doc/Docx, trasmette, gli stessi per il necessario parere da parte delle competenti Commissioni consiliari, con l’avvertenza che l’ulteriore documentazione prodotta dalle Commissioni venga inserita, oltre che nella versione cartacea della proposta da iscrivere all’ordine del giorno del lavori consiliari, anche nel medesimo formato nativo digitale Doc/Docx in cui è stato riprodotto (e trasmesso) l’atto proposto.
+
+* \ |STYLE45|\  in seguito alla adozione della proposta deliberativa da parte del Consiglio Comunale, dovrà curare la trasmissione all’Ufficio Deliberazioni dell’esemplare cartaceo del provvedimento che è stato oggetto di trattazione in sede deliberante da parte dell’organo consiliare, unitamente alla versione definitiva del documento ricevuta in formato Doc/Docx, ivi inclusi i testi digitalizzati degli emendamenti eventualmente presentati ed approvati nonché dei pareri tecnici e contabili resi in sede di adozione dell’atto deliberativo.
+
+* \ |STYLE46|\  provvederà ai successivi adempimenti di propria competenza (ai fini della redazione dei testi eventualmente emendati, della numerazione e pubblicazione all’Albo Pretorio) mediante perfezionamento formale del testo dell’atto deliberativo adottato, sia nella relativa versione cartacea che in quella informatico-digitale (Doc/Docx) ricevuta, procedendo, infine, alla relativa suddetta pubblicazione: a tal uopo, va effettuata \ |STYLE47|\ .
+
+\ |STYLE48|\  l’Ufficio Autonomo Consiglio Comunale predispone sia in formato cartaceo che in versione digitale in formato DOC/DOCX i predetti atti deliberativi acquisendo sul verbale di seduta le occorrenti firme del Presidente del C.C., del Segretario e/o Vice Segretario Generale e del Consigliere anziano. 
+
+Una volta che le suddette proposte vengono deliberato dal C.C. l’Ufficio Autonomo del C.C., provvederà a predisporre in entrambi i formati (cartaceo e digitale DOC/DOCX) le relative deliberazioni, corredando anch’esse delle forme del Presidente del C.C., del Segretario e/o Vice Segretario Generale e del Consigliere anziano, avendo, altresì, cura di trasmetterle all’Ufficio Deliberazioni con contestuale invio delle medesime in formato DOC/DOCX all’indirizzo email \ |LINK19|\ . 
+
+\ |STYLE49|\  provvederà a corredare i provvedimenti deliberativi cartacei di approvazione dei verbali di seduta dei dati occorrenti relativi alla numerazione, ecc ed in egual maniera, anche in formato digitale DOC/DOCX del provvedimento adottato curandone la sua conversione nel formato PDF accessibile conformemente alle disposizioni del CAD, senza procedere ad alcuna scansione del formato carteceo.
+
+\ |STYLE50|\  – si rinvia a quanto al riguardo disposto con la circolare dello Staff Vice Segretario Generale prot. n. 973603/1 del 10/07/2018.
+
+\ |STYLE51|\  – Ciascuna funzione dirigenziale provvederà autonomamente alla pubblicazione all’Albo Pretorio on line dei provvedimenti adottati, in uno alla pubblicazione di ciascun provvedimento “per estratto”, nel rispetto della normativa privacy, secondo le modalità di cui alla vigente regolamentazione nonché nel rispetto dei requisiti tecnici di accessibilità riportati nell’Allegato “A” del citato Decreto ministeriale del 2015, effettuando apposita conversione dal formato Doc/Docx al formato PDF accessibile conformemente alle disposizioni del CAD, senza procedere ad alcuna scansione della documentazione dal formato cartaceo.
+
+\ |STYLE52|\  - Appare opportuno raccomandare l’utilizzo di alcune delle seguenti modalità attuative, al fine di garantire il rispetto dei predetti requisiti tecnici di accessibilità, ai sensi del CAD:
+
+* Così come sopra prescritto con riguardo al foglio pareri nel formato Doc/Docx, anche per tutte le altre firme da apportare all’interno della medesima versione dell’atto deliberativo dovrà essere riportata, in luogo della firma autografa, l’espressione “F.to __________” con indicazione del nominativo e qualifica del soggetto che sottoscrive (Dirigente o suo delegato e Sindaco/ Assessore);
+
+* nel caso risulti necessario l’utilizzo documentale di atti prodotti da altre amministrazioni – che, se non prodotti in un formato Doc/Docx, non potranno essere allegati ai provvedimenti dell’Ente – si suggerisce di procedere, di norma (ove non risulti, al contrario, indispensabile l’utilizzo di un documento da accludere quale allegato dell’atto), a sintetizzarne il contenuto all’interno del redigendo provvedimento; si rinvia a quanto esposto con la citata circolare del Responsabile Pubblicazione prot. n. 796170 del 16/05/2018;
+
+* le cautele finalizzate alla tutela della privacy dovranno egualmente essere adottate nella redazione e pubblicazione di ogni provvedimento amministrativo adottato, stante l’obbligo di permanente pubblicazione dei medesimi nella versione “per estratto”, ex art. 18 L. R. 22/2008, come sostituito dall’art. 6 della L.R. 26 giugno 2015, n. 11, nel sito web dell’Ente;
+
+* \ |STYLE53|\  da inoltrare contestualmente all’invio dei due consueti esemplari cartacei. A tal fine, detta identità di contenuto dovrà essere attestata dal Dirigente mediante specificazione nel messaggio di posta elettronica – da inviare alla Ragioneria Generale (ragioneria generale@comune.palermo.it) e, per conoscenza, all’Ufficio Affari Istituzionali (affari.istituzionali@comune.palermo.it) – della seguente dicitura: “ Si attesta che il contenuto del documento che con la presente si trasmette in formato Doc/Docx è del tutto identico e conforme a quello della proposta di deliberazione di Giunta/Consiglio Comunale n.__ – prot. n.___ (Areg) del_______ trasmessa in formato cartaceo“. In caso di mancanza della detta attestazione, l’Ufficio Affari Istituzionali procederà a richiederla e, qualora non prodotta entro un giorno lavorativo, la Ragioneria Generale potrà procedere alla restituzione degli esemplari cartacei dell’atto proposto. L’istruttoria dell’atto da parte della Ragioneria Generale potrà avere luogo dalla acquisizione della suddetta attestazione. Analoga attestazione dovrà essere effettuata in occasione delle successive trasmissioni a mezzo posta elettronica da parte di tutti gli altri Uffici interessati, nell’ambito dell’iter istruttorio per l’adozione degli atti deliberativi in argomento, in relazione ad ogni documento che necessiti essere creato/prodotto aggiuntivamente e, quindi, da trasmettere nel corrispondente formato Doc/Docx.
+
+* Qualora il contenuto dell’atto deliberativo proposto dovesse essere costituito da un ingente numero di allegati, si suggerisce di utilizzare, in luogo della trasmissione a mezzo email, il supporto fisico CD e/o lo spazio cloud DRIVE degli account istituzionali Gmail; in entrambi i casi, dovrà essere trasmessa email attestante la conformità dei contenuti degli atti in formato digitale Doc/Docx a quelli del corrispondente cartaceo.
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+Da ultimo, con riguardo alla decorrenza dell’obbligo di pubblicazione degli atti nel sito internet istituzionale ai sensi della citata legislazione regionale si segnala alle SS.LL. quanto attenzionato con la circolare n. 1 del 01/02/2018, emanata a firma dell’Assessore regionale delle Autonomie locali e della Funzione Pubblica in relazione al prescritto adempimento in capo al Comune di provvedere alla pubblicazione “per estratto” di tutti i provvedimenti deliberativi di Giunta e Consiglio, delle determinazioni sindacali e dirigenziali e delle ordinanze “entro sette giorni dalla loro emanazione” nonché alla integrale pubblicazione degli atti deliberativi della Giunta e del Consiglio comunale immediatamente esecutivi “entro tre giorni dall’approvazione” (pena la nullità degli atti). 
+
+In particolare, con detta circolare regionale si intende chiarire il tenore della novellata norma regionale (art. 18 della L.R. n. 22/2008), ed ha, pertanto, individuato il momento temporale dell’emanazione dell’atto nella pubblicazione integrale del provvedimento all’Albo Pretorio online asserendo che “\ |STYLE54|\ ” all’Albo Pretorio on line.
+
+Inoltre, riguardo alle deliberazioni rese immediatamente esecutive, dalla Giunta o dal Consiglio, l’Assessorato con la citata circolare  “\ |STYLE55|\ \ |STYLE56|\ \ |STYLE57|\  \ |STYLE58|\ 
+
+Con riguardo alla decorrenza dei predetti termini, 7 gg. o 3 gg., \ |STYLE59|\  (Parere Ufficio Legislativo e legale prot. n. 12623 del 10.06.2016)
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+\ |STYLE60|\ , in indirizzo, si chiede di avviare, tramite la Società SISPI S.p.A.,
+
+l’introduzione dell’utilizzo dell’applicativo gestionale “Determine-Delibere”, anche in maniera sperimentale con singoli Uffici-pilota (quali ad esempio l’Ufficio Innovazione, l’Area della Ragioneria Generale, lo Staff Segretario Generale e lo Staff Vice Segretario Generale), così da consentire a questa Amministrazione comunale di operare, in tempi auspicabilmente brevissimi, in maniera ottimizzata per la gestione digitale del ciclo di vita dei provvedimenti amministrativi suscettibili di pubblicazione all’Albo Pretorio on line, nonché di estendere gradualmente l’uso dello stesso applicativo a tutta la struttura comunale.
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+Nel rappresentare, da ultimo, che con l’utilizzo del citato applicativo, il ciclo di vita di tutti gli atti amministrativi, prodotti dall’Amministrazione verrà gestito in modalità totalmente digitale, conformemente alle disposizioni del CAD, eliminando tutte le procedure che oggi vedono impegnati gli Uffici nella gestione dei supporti cartacei, si rammenta ai Sigg.ri Dirigenti che le modalità procedurali sopra illustrate – da osservare fino all’avvio operativo dell’applicativo gestionale “Determine-Delibere” ad opera della Società SISPI S.p.A, - dovranno \ |STYLE61|\  essere fatte attivare da parte degli Uffici competenti.
+
+Distinti saluti. Per il Segretario Generale, il Vice Segretario Generale, dott. V. Messina
+
+|
 
 .. bottom of content
 
@@ -403,6 +505,76 @@ Distinti saluti - Il vice Segretario Generale, dott. Vincenzo Messina.
 .. |STYLE25| replace:: **Oggetto: Nota invito n. 1/2018 del Difensore Civico del Digitale (AGID) e attività intraprese dal Comune di Palermo**
 
 .. |STYLE26| replace:: **Oggetto: Pubblicazione in formato accessibile delle Ordinanze Sindacali gs. circolare prot. AREG/7961/2018 del 16/05/2018 del Servizio Innovazione. Sollecito.**
+
+.. |STYLE27| replace:: **OGGETTO: Obbligo di pubblicazione degli atti nel sito internet istituzionale - Modalità di pubblicazione in formato aperto ed accessibile degli atti amministrativi nell’Albo Pretorio del sito web istituzionale, al fine del rispetto dei requisiti di accessibilità – Rif. Circolare del Responsabile per la pubblicazione prot. n. 796170/2018 del 16/05/2018 - Direttive prot. n. 562294/USG del 13/07/2015 e prot. n. 635/USG del 02/01/2018 – Indicazioni integrative**
+
+.. |STYLE28| replace:: *all’avvenuta pubblicazione online dell’atto amministrativo di competenza (determinazione dirigenziale, ordinanza dirigenziale) in*
+
+.. |STYLE29| replace:: **formato PDF nel rispetto dei requisiti tecnici di accessibilità riportati nell’Allegato A del Decreto Ministeriale 8 luglio 2005**
+
+.. |STYLE30| replace:: *la responsabilità della formazione e redazione degli atti pubblicati all’Albo on-line, sotto il profilo amministrativo–giuridico e della tutela dei dati personali, ivi inclusa quella di indicare e/o controllare la determinazione del periodo di tempo ricorrente nel caso specifico, è attribuita ai Dirigenti dei Settori e/o Uffici che hanno emanato i provvedimenti*
+
+.. |STYLE31| replace:: **“Redazione e trasmissione proposte di determinazioni del Sindaco, proposte di deliberazione di Giunta e Consiglio comunale – Direttiva”**
+
+.. |STYLE32| replace:: **esclusivamente fino a quando non verrà definitivamente sostituito il sistema di predisposizione ed adozione dei provvedimenti amministrativi in formato cartaceo**
+
+.. |STYLE33| replace:: **Per le proposte deliberative di Giunta Comunale**
+
+.. |STYLE34| replace:: **Da parte dell’Ufficio proponente**
+
+.. |STYLE35| replace:: **Da parte della Ragioneria Generale**
+
+.. |STYLE36| replace:: **Da parte dell’Archivio della Segreteria Generale**
+
+.. |STYLE37| replace:: **L’Ufficio Affari Istituzionali**
+
+.. |STYLE38| replace:: **L’Ufficio Deliberazioni**
+
+.. |STYLE39| replace:: **Per le proposte deliberative del Consiglio Comunale**
+
+.. |STYLE40| replace:: **Da parte dell’Ufficio proponente**
+
+.. |STYLE41| replace:: **Da parte della Ragioneria Generale**
+
+.. |STYLE42| replace:: **Da parte dell’Archivio della Segreteria Generale**
+
+.. |STYLE43| replace:: **L’Ufficio Affari Istituzionali**
+
+.. |STYLE44| replace:: **L’Ufficio Autonomo Consiglio Comunale**
+
+.. |STYLE45| replace:: **L’Ufficio Autonomo Consiglio Comunale**
+
+.. |STYLE46| replace:: **L’Ufficio Deliberazioni**
+
+.. |STYLE47| replace:: **la conversione dal formato Doc/Docx al formato PDF accessibile conformemente alle disposizioni del CAD, senza procedere ad alcuna scansione della documentazione dal formato cartaceo**
+
+.. |STYLE48| replace:: **Per le proposte deliberative di Consiglio Comunale concernenti l’approvazione dei verbali delle adunanze consiliari**
+
+.. |STYLE49| replace:: **L’Ufficio Deliberazioni**
+
+.. |STYLE50| replace:: **Per le Determinazioni ed Ordinanze del Sindaco**
+
+.. |STYLE51| replace:: **Per le Determinazioni ed Ordinanze dirigenziali**
+
+.. |STYLE52| replace:: **Avvertenze per la redazione di tutti i provvedimenti amministrativi destinati alla pubblicazione all’Albo Pretorio on line**
+
+.. |STYLE53| replace:: **resta ascritta alla responsabilità della funzione dirigenziale proponente la garanzia della identità di contenuto tra la versione cartacea della proposta di provvedimento e di quella nella corrispondente versione in formato Doc/Docx**
+
+.. |STYLE54| replace:: **tutti gli atti deliberativi delle amministrazioni comunali [...] andranno pubblicati nel sito istituzionale dello stesso entro sette giorni dalla loro pubblicazione integrale**
+
+.. |STYLE55| replace:: *... a seguito di un'interpretazione sistematica della norma, avendo il legislatore inteso regolamentare la pubblicazione di tutti gli atti deliberativi “per estratto” e “ai fini di pubblicità notizia”; la norma viene interpretata nel senso che “*
+
+.. |STYLE56| replace:: **entro tre giorni, dall’approvazione, a pena di nullità, il responsabile della pubblicazione ha l’onere di redigere prontamente l’estratto e di pubblicarlo, .**
+
+.. |STYLE57| replace:: *.. omissis …*
+
+.. |STYLE58| replace:: **senza dovere attendere la pubblicazione integrale del provvedimento”.**
+
+.. |STYLE59| replace:: *in assenza di diversa previsione espressa da parte del legislatore regionale, il superiore termine andrà calcolato partendo dal primo giorno successivo a quello di adozione della delibera, e non dal primo giorno lavorativo utile.*
+
+.. |STYLE60| replace:: **All’Ufficio Innovazione**
+
+.. |STYLE61| replace:: **inderogabilmente**
 
 
 .. |LINK1| raw:: html
@@ -468,6 +640,18 @@ Distinti saluti - Il vice Segretario Generale, dott. Vincenzo Messina.
 .. |LINK16| raw:: html
 
     <a href="mailto:messi.albo@comune.palermo.it">messi.albo@comune.palermo.it</a>
+
+.. |LINK17| raw:: html
+
+    <a href="mailto:generale@comune.palermo.it">generale@comune.palermo.it</a>
+
+.. |LINK18| raw:: html
+
+    <a href="mailto:generale@comune.palermo.it">generale@comune.palermo.it</a>
+
+.. |LINK19| raw:: html
+
+    <a href="mailto:ufficiodeliberazoni@comue.palermo.it">ufficiodeliberazioni@comue.palermo.it</a>
 
 
 
