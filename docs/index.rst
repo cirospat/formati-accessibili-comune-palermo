@@ -447,6 +447,52 @@ Distinti saluti. Per il Segretario Generale, il Vice Segretario Generale, dott. 
 
 |
 
+.. _h53224a493a7f70392a072205d49361c:
+
+Segretario Generale 08.11.2018 - Processo di gestione degli atti amministrativi in modalità digitale – Direttiva urgente e inderogabile
+=======================================================================================================================================
+
+Ai Sigg.ri Dirigenti                                              
+
+e, p.c. 
+
+Al Sig. Sindaco
+
+Al Sig. Presidente del C.C.
+
+Ai Sig.ri Assessori
+
+Al Servizio Innovazione
+
+All’O.I.V.
+
+Alla Società Sispi S.p.a
+
+                            	 
+
+Con riferimento a quanto in oggetto, nel richiamare le vigenti norme per l’uso di documenti amministrativi informatici imposto dal CAD-Codice dell’Amministrazione Digitale (“atti formati dalle pubbliche amministrazioni con strumenti informatici, nonché i dati e i documenti informatici detenuti dalle stesse “ cfr. art. 23-ter, comma 1, del D.lgs. n. 82/2005 e ss.mm. e ii), si rappresenta alle SS.LL. e si dispone quanto segue.
+
+In esito ad un preliminare confronto con la Sispi S.p.A., in indirizzo per conoscenza, è stato dalla stessa predisposto, con la partecipazione del Servizio Innovazione, un piano operativo per l’introduzione della digitalizzazione dei provvedimenti amministrativi emanati dall’Amministrazione.
+
+Ai fini, pertanto, dell’introduzione della produzione e gestione a mezzo strumento informatico degli atti amministrativi – il cosiddetto processo di digitalizzazione degli atti della pubblica amministrazione – ed, in particolare, della digitalizzazione degli atti a contenuto provvedimentale (deliberazioni, determinazioni, ordinanze), è stato concordato un “percorso per fasi di attuazione”, in base al quale si prevede di introdurre la creazione e gestione in versione digitale di detti atti, cominciando dalla digitalizzazione dei soli atti dirigenziali a partire da Gennaio 2019.
+
+Sempre ai superiori fini, Sispi S.p.a. ha organizzato un programma di lezioni pratico-operative per l’uso del necessario programma informatico, che prevede di realizzare la formazione di circa n. 200 unità di risorse umane (n.2 per singolo servizio/ufficio comunale nella prima sessione formativa), e per classi formate da n. 18 persone.
+
+Per esigenze di immediatezza, si prevede di dare inizio ad un primo ciclo di lezioni entro il 31/12/2018 a partire dalla seconda metà di novembre 2018.
+
+A tal fine, ciascun Dirigente in indirizzo è invitato a fornire – inderogabilmente e con la massima urgenza – n. 2 nominativi di dipendenti per Servizio/Ufficio secondo la seguente modalità: cliccare sul seguente link  \ |LINK20|\  e compilare il modulo secondo le istruzioni ivi fornite entro e non oltre la data del 12/11/2018.
+
+Nel sottolineare l’importanza dell’attuale fase di start up del processo di digitalizzazione in argomento, si segnala che il mancato suddetto adempimento da parte di ciascun Dirigente sarà evidenziato all’O.I.V.
+
+Ciascun Dirigente riceverà apposita comunicazione a mezzo email contenente il calendario delle giornate formative destinate al personale già indicato nel modulo.
+
+Atteso che la precipua finalità delle sessioni formative da svolgere entro la fine dell’anno 2018 è quella di consentire all’Amministrazione comunale di applicare dal mese di Gennaio 2019 il sistema operativo informatico per la creazione, protocollazione e gestione di tutte le determinazioni ed ordinanze dirigenziali, si richiede alle SS.LL.di prestare la massima attenzione – in fase di programmazione delle ferie del periodo di festività natalizie - nella scelta del personale da coinvolgere nelle sezioni formative da svolgere entro la fine dell’anno 2018, affinché il medesimo personale formato possa garantire la propria presenza a partire dalla prima settimana lavorativa di Gennaio 2019.
+
+Nel ringraziare per la necessaria collaborazione, si raccomanda di riscontrare con puntualità le richieste di cui alla presente, che costituisce direttiva a carattere imperativo ed inderogabile.
+
+Distinti saluti, Il Segretario Generale, Dott. Antonio Le Donne
+
+
 .. bottom of content
 
 
@@ -650,6 +696,10 @@ Distinti saluti. Per il Segretario Generale, il Vice Segretario Generale, dott. 
 .. |LINK19| raw:: html
 
     <a href="mailto:ufficiodeliberazoni@comue.palermo.it">ufficiodeliberazioni@comue.palermo.it</a>
+
+.. |LINK20| raw:: html
+
+    <a href="http://bit.ly/determine-formazione" target="_blank">http://bit.ly/determine-formazione</a>
 
 
 
